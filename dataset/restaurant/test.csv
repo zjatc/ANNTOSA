@@ -1,0 +1,1119 @@
+target,text,indices,label
+bread,the $t$ is top notch as well .,1,1
+delivery times,i have to say they have one of the fastest $t$ in the city .,10,1
+food,$t$ is always fresh and hot - ready to eat !,0,1
+coffee,did i mention that the $t$ is outstanding ?,5,1
+place,"certainly not the best sushi in new york , however , it is always fresh , and the $t$ is very clean , sterile .",18,1
+people,"i trust the $t$ at go sushi , it never disappoints .",3,1
+japanese food,"straight - forward , no surprises , very decent $t$ .",9,1
+spicy tuna roll,"best $t$ , great asian salad .",1,1
+asian salad,"best spicy tuna roll , great $t$ .",6,1
+rose roll,try the $t$ ( not on menu ) .,2,1
+menu,try the rose roll ( not on $t$ ) .,7,0
+drinks,"i love the $t$ , esp lychee martini , and the food is also very good .",3,1
+lychee martini,"i love the drinks , esp $t$ , and the food is also very good .",6,1
+food,"i love the drinks , esp lychee martini , and the $t$ is also very good .",11,1
+nicoise salad,"in fact , this was not a $t$ and was barely eatable .",7,-1
+menu,"while there ' s a decent $t$ , it shouldn ' t take ten minutes to get your drinks and 45 for a dessert pizza .",6,1
+drinks,"while there ' s a decent menu , it shouldn ' t take ten minutes to get your $t$ and 45 for a dessert pizza .",18,0
+dessert pizza,"while there ' s a decent menu , it shouldn ' t take ten minutes to get your drinks and 45 for a $t$ .",23,0
+food,"once we sailed , the top - notch $t$ and live entertainment sold us on a unforgettable evening .",8,1
+live entertainment,"once we sailed , the top - notch food and $t$ sold us on a unforgettable evening .",10,1
+waiter,our $t$ was horrible ; so rude and disinterested .,1,-1
+sangria ' s,the $t$ - watered down .,1,-1
+menu,"$t$ - uneventful , small .",0,-1
+sushi,anytime and everytime i find myself in the neighborhood i will go to sushi rose for fresh $t$ and great portions all at a reasonable price .,17,1
+portions,anytime and everytime i find myself in the neighborhood i will go to sushi rose for fresh sushi and great $t$ all at a reasonable price .,20,1
+price,anytime and everytime i find myself in the neighborhood i will go to sushi rose for fresh sushi and great portions all at a reasonable $t$ .,25,1
+food,great $t$ but the service was dreadful !,1,1
+service,great food but the $t$ was dreadful !,4,-1
+portions of the food,the $t$ that came out were mediocre .,1,0
+waitress ' s,the two $t$ looked like they had been sucking on lemons .,2,-1
+staff memebers,"from the beginning , we were met by friendly $t$ , and the convienent parking at chelsea piers made it easy for us to get to the boat .",9,1
+parking,"from the beginning , we were met by friendly staff memebers , and the convienent $t$ at chelsea piers made it easy for us to get to the boat .",15,1
+desserts,we enjoyed ourselves thoroughly and will be going back for the $t$ . . . .,11,1
+desserts,$t$ are almost incredible : my personal favorite is their tart of the day .,0,1
+tart of the day,desserts are almost incredible : my personal favorite is their $t$ .,10,1
+food,"the $t$ was extremely tasty , creatively presented and the wine excellent .",1,1
+wine,"the food was extremely tasty , creatively presented and the $t$ excellent .",10,1
+lasagna,the $t$ was probably the best i have tasted .,1,1
+array of sushi,harumi sushi has the freshest and most delicious $t$ in nyc .,8,1
+cuisine,"i highly recommend it for not just its superb $t$ , but also for its friendly owners and staff .",9,1
+owners,"i highly recommend it for not just its superb cuisine , but also for its friendly $t$ and staff .",16,1
+staff,"i highly recommend it for not just its superb cuisine , but also for its friendly owners and $t$ .",18,1
+indian food,"if you ' re craving some serious $t$ and desire a cozy ambiance , this is quite and exquisite choice .",7,1
+ambiance,"if you ' re craving some serious indian food and desire a cozy $t$ , this is quite and exquisite choice .",13,1
+food,i definitely enjoyed the $t$ as well .,4,1
+service,"it was pleasantly uncrowded , the $t$ was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .",6,1
+garden,"it was pleasantly uncrowded , the service was delightful , the $t$ adorable , the food ( from appetizers to entrees ) was delectable .",11,1
+food,"it was pleasantly uncrowded , the service was delightful , the garden adorable , the $t$ ( from appetizers to entrees ) was delectable .",15,1
+appetizers,"it was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from $t$ to entrees ) was delectable .",18,1
+entrees,"it was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to $t$ ) was delectable .",20,1
+food,"the $t$ is surprisingly good , and the decor is nice .",1,1
+decor,"the food is surprisingly good , and the $t$ is nice .",8,1
+lunch,how pretentious and inappropriate for mj grill to claim that it provides power $t$ and dinners !,13,-1
+dinners,how pretentious and inappropriate for mj grill to claim that it provides power lunch and $t$ !,15,-1
+steaks,two wasted $t$ - - what a crime !,2,-1
+staff,the $t$ should be a bit more friendly .,1,-1
+meatball parm,i think the $t$ is good .,3,1
+latin food,"if you want good tasting , well seasoned $t$ eat at cabana and you can ' t go wrong .",8,1
+taglierini with truffles,definitely try the $t$ - it was incredible .,3,1
+staff,"also , the $t$ is very attentive and really personable .",3,1
+gnocchi,the $t$ literally melts in your mouth !,1,1
+staff,had a great experience at trio . . . $t$ was pleasant ; food was tasty and large in portion size - i would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .,9,1
+food,had a great experience at trio . . . staff was pleasant ; $t$ was tasty and large in portion size - i would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .,13,1
+portion size,had a great experience at trio . . . staff was pleasant ; food was tasty and large in $t$ - i would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .,19,1
+portobello/gorgonzola/sausage appetizer,had a great experience at trio . . . staff was pleasant ; food was tasty and large in portion size - i would highly recommend the $t$ and the lobster risotto .,27,1
+lobster risotto,had a great experience at trio . . . staff was pleasant ; food was tasty and large in portion size - i would highly recommend the portobello/gorgonzola/sausage appetizer and the $t$ .,31,1
+entrees,"$t$ include classics like lasagna , fettuccine alfredo and chicken parmigiana .",0,0
+lasagna,"entrees include classics like $t$ , fettuccine alfredo and chicken parmigiana .",4,0
+fettuccine alfredo,"entrees include classics like lasagna , $t$ and chicken parmigiana .",6,0
+chicken parmigiana,"entrees include classics like lasagna , fettuccine alfredo and $t$ .",9,0
+food,"the $t$ is good , the teriyaki i recommend .",1,1
+teriyaki,"the food is good , the $t$ i recommend .",6,1
+meal,$t$ was very expensive for what you get .,0,-1
+peanut butter sorbet,try the $t$ and the pizza with soy cheese !,2,1
+pizza with soy cheese,try the peanut butter sorbet and the $t$ !,7,1
+food,"good $t$ at the right price , what more can you ask for .",1,1
+price,"good food at the right $t$ , what more can you ask for .",5,1
+food,"the $t$ is top notch , the service is attentive , and the atmosphere is great .",1,1
+service,"the food is top notch , the $t$ is attentive , and the atmosphere is great .",7,1
+atmosphere,"the food is top notch , the service is attentive , and the $t$ is great .",13,1
+food,"great $t$ , great waitstaff , great atmosphere , and best of all great beer !",1,1
+waitstaff,"great food , great $t$ , great atmosphere , and best of all great beer !",4,1
+atmosphere,"great food , great waitstaff , great $t$ , and best of all great beer !",7,1
+beer,"great food , great waitstaff , great atmosphere , and best of all great $t$ !",14,1
+food,this is still one of my most favorite restaurants in the area the $t$ is inexpensive but very good ( kimono shrimp special was excellent ) and has a great atmosphere .,13,1
+shrimp special,this is still one of my most favorite restaurants in the area the food is inexpensive but very good ( kimono $t$ was excellent ) and has a great atmosphere .,21,1
+atmosphere,this is still one of my most favorite restaurants in the area the food is inexpensive but very good ( kimono shrimp special was excellent ) and has a great $t$ .,30,1
+menu,the $t$ is interesting and quite reasonably priced .,1,1
+priced,the menu is interesting and quite reasonably $t$ .,7,1
+food,the $t$ was delicious and clearly fresh ingredients were used .,1,1
+ingredients,the food was delicious and clearly fresh $t$ were used .,7,1
+food,this made it obvious that the $t$ wasn ' t cooked fresh ; it was obviously made before hand and then reheated .,6,-1
+appetizer,$t$ are excellent here ; you can make a great ( and inexpensive ) meal out of them .,0,1
+meal,appetizer are excellent here ; you can make a great ( and inexpensive ) $t$ out of them .,14,1
+spicy mussels,the $t$ are a highlight .,1,1
+onion rings,also get the $t$ - - best we ' ve ever had .,3,1
+food,"however , being foodies , we were utterly disappointed with the $t$ .",11,-1
+portions,"huge $t$ , great and attentive service , and pretty good prices .",1,1
+service,"huge portions , great and attentive $t$ , and pretty good prices .",6,1
+prices,"huge portions , great and attentive service , and pretty good $t$ .",11,1
+service,i was highly disappointed by their $t$ and food .,6,-1
+food,i was highly disappointed by their service and $t$ .,8,-1
+waiter,"i complained to the $t$ and then to the manager , but the intensity of rudeness from them just went up .",4,-1
+manager,"i complained to the waiter and then to the $t$ , but the intensity of rudeness from them just went up .",9,-1
+food,the $t$ is great and the milkshakes are even better !,1,1
+milkshakes,the food is great and the $t$ are even better !,6,1
+mushroom barley soup,the $t$ is amazing .,1,1
+food,"i ' m glad i did as the $t$ was very good and the staff was friendly , courteous and efficient .",8,1
+staff,"i ' m glad i did as the food was very good and the $t$ was friendly , courteous and efficient .",14,1
+duck,their $t$ here is also absolutely delicious .,1,1
+drinks,"while it was large and a bit noisy , the $t$ were fantastic , and the food was superb .",10,1
+food,"while it was large and a bit noisy , the drinks were fantastic , and the $t$ was superb .",16,1
+curried casseroles,one caveat : some of the $t$ can be a trifle harsh .,6,-1
+food,the $t$ was almost always excellent .,1,1
+taste,i was pleasently surprised at the $t$ .,6,1
+cuisine,"a nice space , as long as it doesn ' t get too crowded and a singleminded devotion to its chosen $t$ make mare a great choice for seafood lovers .",21,1
+seafood,"a nice space , as long as it doesn ' t get too crowded and a singleminded devotion to its chosen cuisine make mare a great choice for $t$ lovers .",28,1
+orange donut,i never had an $t$ before so i gave it a shot .,4,0
+atmosphere,"they really provide a relaxing , laid - back $t$ .",9,1
+meats,this particular location certainly uses substandard $t$ .,6,-1
+management,the $t$ was less than accomodating .,1,-1
+ambience,the $t$ is also more laid - back and relaxed .,1,1
+teas,the $t$ are great and all the sweets are homemade .,1,1
+sweets,the teas are great and all the $t$ are homemade .,7,1
+mojitos,$t$ and the service are the best part in there,0,1
+service,mojitos and the $t$ are the best part in there,3,1
+sandwiches,"$t$ , burgers and salads , like the lemon - dressed cobb , are classic successes .",0,1
+burgers,"sandwiches , $t$ and salads , like the lemon - dressed cobb , are classic successes .",2,1
+salads,"sandwiches , burgers and $t$ , like the lemon - dressed cobb , are classic successes .",4,1
+dressed cobb,"sandwiches , burgers and salads , like the lemon - $t$ , are classic successes .",10,1
+design,the $t$ is very intimate and romantic .,1,1
+food,the $t$ was wonderful and imaginative .,1,1
+staff,the $t$ is very sharp and they look good too .,1,1
+taste,the worst though was the $t$ .,5,-1
+fajita,the $t$ we tried was tasteless and burned and the mole sauce was way too sweet .,1,-1
+mole sauce,the fajita we tried was tasteless and burned and the $t$ was way too sweet .,10,-1
+roasted chickens,stay with the $t$ and you ' ll be fine .,3,1
+atmosphere,"the $t$ is warm , comfortable , artsy and sexy .",1,1
+food,"the $t$ is great ( big selection , reasonable prices ) and the drinks are really good .",1,1
+selection,"the food is great ( big $t$ , reasonable prices ) and the drinks are really good .",6,1
+prices,"the food is great ( big selection , reasonable $t$ ) and the drinks are really good .",9,1
+drinks,"the food is great ( big selection , reasonable prices ) and the $t$ are really good .",13,1
+steak,the $t$ melted in my mouth .,1,1
+food,"the $t$ did take a few extra minutes to come , but the cute waiters ' jokes and friendliness made up for it .",1,0
+waiters,"the food did take a few extra minutes to come , but the cute $t$ ' jokes and friendliness made up for it .",14,1
+priced,"most importantly , it is reasonably $t$ .",6,1
+selection of food,"the $t$ is excellent ( i ' m not used to having much choice at restaurants ) , and the atmosphere is great .",1,1
+atmosphere,"the selection of food is excellent ( i ' m not used to having much choice at restaurants ) , and the $t$ is great .",22,1
+dessert,"only suggestion is that you skip the $t$ , it was overpriced and fell short on taste .",7,-1
+taste,"only suggestion is that you skip the dessert , it was overpriced and fell short on $t$ .",16,-1
+food,"$t$ was decent , but not great .",0,1
+hot dog,i dont know what some people who rave about this $t$ are talking about .,10,-1
+bar,it is a hidden delight complete with a quaint $t$ and good food .,9,1
+food,it is a hidden delight complete with a quaint bar and good $t$ .,12,1
+waiters,the $t$ always look angry and even ignore their high - tipping regulars .,1,-1
+atmosphere,"the $t$ is very nice , and a welcome escape from the rest of the si mall .",1,1
+food,"yes , they ' re a bit more expensive then typical , but then again , so is their $t$ .",19,1
+wraps,"i can say that the $t$ , burgers and salads were all fresh , tasty and the mango margareta at $9 was well worth the money .",5,1
+burgers,"i can say that the wraps , $t$ and salads were all fresh , tasty and the mango margareta at $9 was well worth the money .",7,1
+salads,"i can say that the wraps , burgers and $t$ were all fresh , tasty and the mango margareta at $9 was well worth the money .",9,1
+mango margareta,"i can say that the wraps , burgers and salads were all fresh , tasty and the $t$ at $9 was well worth the money .",17,1
+prices,"anywhere else , the $t$ would be 3x as high !",4,1
+service,the $t$ we experienced was friendly and good .,1,1
+waiter,our $t$ was friendly and it is a shame that he didnt have a supportive staff to work with .,1,1
+staff,our waiter was friendly and it is a shame that he didnt have a supportive $t$ to work with .,15,-1
+folding chair,the $t$ i was seated at was uncomfortable .,1,-1
+service,$t$ was among the best i have ever had in nyc .,0,1
+fettucino alfredo,the $t$ was amazing .,1,1
+food,the $t$ was very good and i was pleasantly surprised to see so many vegan options .,1,1
+vegan options,the food was very good and i was pleasantly surprised to see so many $t$ .,14,1
+indian food,i know real $t$ and this wasn ' t it .,3,-1
+smoked trout . . . lamb chops,"be sure to try the $t$ , veal chops , rabbit , the potato gratin , on and on and on . . .",5,1
+veal chops,"be sure to try the smoked trout . . . lamb chops , $t$ , rabbit , the potato gratin , on and on and on . . .",13,1
+rabbit,"be sure to try the smoked trout . . . lamb chops , veal chops , $t$ , the potato gratin , on and on and on . . .",16,1
+potato gratin,"be sure to try the smoked trout . . . lamb chops , veal chops , rabbit , the $t$ , on and on and on . . .",19,1
+chef,"even when the $t$ is not in the house , the food and service are right on target .",3,0
+food,"even when the chef is not in the house , the $t$ and service are right on target .",11,1
+service,"even when the chef is not in the house , the food and $t$ are right on target .",13,1
+eggs benedict,everything from the $t$ to the mussels and even the hamburger were done well and very tasty .,3,1
+mussels,everything from the eggs benedict to the $t$ and even the hamburger were done well and very tasty .,7,1
+hamburger,everything from the eggs benedict to the mussels and even the $t$ were done well and very tasty .,11,1
+waiters,"the $t$ were very professional , courteous and attentive .",1,1
+falafal,the $t$ was rather over cooked and dried but the chicken was fine .,1,-1
+chicken,the falafal was rather over cooked and dried but the $t$ was fine .,10,1
+grand marnier shrimp,"i highly reccomend the $t$ , it ' s insanely good .",4,1
+food,"we been there and we really enjoy the $t$ , was areally great food , and the service was really good .",8,1
+food,"we been there and we really enjoy the food , was areally great $t$ , and the service was really good .",13,1
+service,"we been there and we really enjoy the food , was areally great food , and the $t$ was really good .",17,1
+desserts,$t$ include flan and sopaipillas .,0,0
+flan,desserts include $t$ and sopaipillas .,2,0
+sopaipillas,desserts include flan and $t$ .,4,0
+portions,i was starving and the small $t$ were driving me crazy !,6,-1
+wait staff,the $t$ was loud and inconsiderate .,1,-1
+food,"however , the $t$ and service and dramatically lacking .",3,-1
+service,"however , the food and $t$ and dramatically lacking .",5,-1
+sushi,the $t$ is cut in blocks bigger than my cell phone .,1,-1
+service,"the $t$ is great , my soup always arrives nice and hot .",1,1
+soup,"the service is great , my $t$ always arrives nice and hot .",6,1
+crepes,it had been awhile and i forgot just how delicious $t$ can be .,10,1
+especially,montparnasse ' s desserts - - $t$ the silken creme brulee and paper - thin apple tart - - are good enough on their own to make the restaurant worth the trip .,6,1
+creme brulee,montparnasse ' s desserts - - especially the silken $t$ and paper - thin apple tart - - are good enough on their own to make the restaurant worth the trip .,9,1
+apple,montparnasse ' s desserts - - especially the silken creme brulee and paper - thin $t$ tart - - are good enough on their own to make the restaurant worth the trip .,15,1
+shrimp creole,i had a delicious $t$ .,4,1
+chicken dinner,the $t$ was real good .,1,1
+chili signed food items,beware of the $t$ not unless you want to call the fire department to douse the flames in your mouth .,3,-1
+decor,the $t$ is designed in a contemporary japanese style restaurant .,1,0
+food,but the $t$ was delicious .,2,1
+ribs,"try the $t$ , sizzling beef and couple it with coconut rice .",2,1
+beef,"try the ribs , sizzling $t$ and couple it with coconut rice .",5,1
+coconut rice,"try the ribs , sizzling beef and couple it with $t$ .",10,1
+avocado salad,the $t$ is a personal fave .,1,1
+honey bbq rib tips,"and , the $t$ are yummy !",3,1
+chinese food,the best $t$ uptown !,2,1
+service,$t$ is known for bending over backwards to make everyone happy .,0,1
+staff,the $t$ is very friendly .,1,1
+waiters,$t$ are very friendly and the pasta is out of this world .,0,1
+pasta,waiters are very friendly and the $t$ is out of this world .,6,1
+wine list,great $t$ and great cocktail menu .,1,1
+cocktail menu,great wine list and great $t$ .,5,1
+crab cakes,the $t$ are delicious and the bbq rib was perfect .,1,1
+bbq rib,the crab cakes are delicious and the $t$ was perfect .,7,1
+food,"the $t$ is wonderful , artfully done and simply delicious .",1,1
+service,tiny restaurant with very fast $t$ .,5,1
+service,my husband and i have been there at least 6 times and we ' ve always been given the highest $t$ and often free desserts .,20,1
+desserts,my husband and i have been there at least 6 times and we ' ve always been given the highest service and often free $t$ .,24,1
+atmosphere,"a beautiful $t$ , perfect for drinks and/or appetizers .",2,1
+drinks,"a beautiful atmosphere , perfect for $t$ and/or appetizers .",6,0
+appetizers,"a beautiful atmosphere , perfect for drinks and/or $t$ .",8,0
+pizza,they make the best $t$ in new jersey .,4,1
+service,"what a difference , the $t$ was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive beer list .",5,1
+food,"what a difference , the service was very comforting and the $t$ was better than average , but what really standed out was such a dynamic and extensive beer list .",11,1
+beer list,"what a difference , the service was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive $t$ .",28,1
+chinese food,"frankly , the $t$ here is something i can make better at home .",3,-1
+waiter,there was only one $t$ for the whole restaurant upstairs .,4,0
+scallops,we started with the $t$ and asparagus and also had the soft shell crab as well as the cheese plate .,4,0
+asparagus,we started with the scallops and $t$ and also had the soft shell crab as well as the cheese plate .,6,0
+soft shell crab,we started with the scallops and asparagus and also had the $t$ as well as the cheese plate .,11,0
+cheese plate,we started with the scallops and asparagus and also had the soft shell crab as well as the $t$ .,18,0
+service,"not to be overlooked , the $t$ is excellent .",6,1
+hotdogs,this without question is one of the worst $t$ i have ever had .,8,-1
+staff,"the $t$ is unbelievably friendly , and i dream about their saag gosht . . . so good .",1,1
+saag gosht . . . so,"the staff is unbelievably friendly , and i dream about their $t$ good .",11,1
+garlic knots,i also recommend the $t$ .,4,1
+indian food,best $t$ i have ever eaten .,1,1
+pizza,this place has the best $t$ .,5,1
+music,the $t$ which is sometimes a little too heavy for my taste .,1,-1
+service,the $t$ is excellent and always informative without an air .,1,1
+owner,the $t$ and staff go to great lengths to make you feel comfortable .,1,1
+staff,the owner and $t$ go to great lengths to make you feel comfortable .,3,1
+sushi,the $t$ is always fresh and yummy and the menu is pretty varied .,1,1
+menu,the sushi is always fresh and yummy and the $t$ is pretty varied .,9,1
+food,"the $t$ was great - sushi was good , but the cooked food amazed us .",1,1
+sushi,"the food was great - $t$ was good , but the cooked food amazed us .",5,1
+cooked food,"the food was great - sushi was good , but the $t$ amazed us .",11,1
+dinner specials,their $t$ are fantastic .,1,1
+food,"great $t$ , great drinks , nice dining atmosphere .",1,1
+drinks,"great food , great $t$ , nice dining atmosphere .",4,1
+dining atmosphere,"great food , great drinks , nice $t$ .",7,1
+price,"for the $t$ you pay for the food here , you ' d expect it to be at least on par with other japanese restaurants .",2,-1
+food,"for the price you pay for the $t$ here , you ' d expect it to be at least on par with other japanese restaurants .",7,-1
+food portion,$t$ was small and below average .,0,-1
+chairs,sit back in one of those comfortable $t$ .,7,1
+tacos pastor,my favs here are the $t$ and the tostada de tinga . . .,5,1
+tostada de tinga,my favs here are the tacos pastor and the $t$ . . .,9,1
+bartenders,"the $t$ and the managers are really nice and the decor is very comfy and laid - back , all the while being trendy .",1,1
+managers,"the bartenders and the $t$ are really nice and the decor is very comfy and laid - back , all the while being trendy .",4,1
+decor,"the bartenders and the managers are really nice and the $t$ is very comfy and laid - back , all the while being trendy .",10,1
+soup and sandwich meal,"for a savory take on the $t$ , try the hot and sour soup .",6,1
+hot and sour soup,"for a savory take on the soup and sandwich meal , try the $t$ .",13,1
+drinks,"this bar has it all - great $t$ , cool atmosphere , excellent service and delicious food .",7,1
+atmosphere,"this bar has it all - great drinks , cool $t$ , excellent service and delicious food .",10,1
+service,"this bar has it all - great drinks , cool atmosphere , excellent $t$ and delicious food .",13,1
+food,"this bar has it all - great drinks , cool atmosphere , excellent service and delicious $t$ .",16,1
+chick peas with shrimp ( appetizer,"also , the $t$ ) is divine .",3,1
+service,"finally , i got sick of the bad $t$ , obnoxious smirks , and snotty back talk .",8,-1
+lamb,we ordered $t$ which was perfectly cooked and tasted awesome .,2,1
+soft shell crab sandwich with fries,i especially like their $t$ .,4,1
+style food,"if you ' re looking for authentic hong kong - $t$ , look no further .",10,1
+food,good $t$ good wine that ' s it .,1,1
+wine,good food good $t$ that ' s it .,3,1
+staff,the $t$ was extremely friendly and pleasant .,1,1
+kitchen food,"while their $t$ is delicious , their sushi is out of this world .",2,1
+sushi,"while their kitchen food is delicious , their $t$ is out of this world .",8,1
+service,"everything is scrumptious , from the excellent $t$ by cute waitresses , to the extremely lush atmosphere .",7,1
+waitresses,"everything is scrumptious , from the excellent service by cute $t$ , to the extremely lush atmosphere .",10,1
+atmosphere,"everything is scrumptious , from the excellent service by cute waitresses , to the extremely lush $t$ .",16,1
+italian food,"it ' s traditional , simple $t$ .",6,1
+food,"the $t$ is all - around good , with the rolls usually excellent and the sushi/sashimi not quite on the same level .",1,1
+rolls,"the food is all - around good , with the $t$ usually excellent and the sushi/sashimi not quite on the same level .",10,1
+sushi/sashimi,"the food is all - around good , with the rolls usually excellent and the $t$ not quite on the same level .",15,0
+sashimi,( the $t$ is cut a little thinly .,2,-1
+price,could have had better for 1/3 the $t$ in chinatown .,7,-1
+hot dogs,"in addition to great $t$ , dotp has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and english muffins , a delicious nj - based pork product know to us jersey girls and boys as taylor ham .",4,1
+breakfast sandwiches,"in addition to great hot dogs , dotp has wonderful $t$ that feature , in addition to great things like tator tots and english muffins , a delicious nj - based pork product know to us jersey girls and boys as taylor ham .",10,1
+tator tots,"in addition to great hot dogs , dotp has wonderful breakfast sandwiches that feature , in addition to great things like $t$ and english muffins , a delicious nj - based pork product know to us jersey girls and boys as taylor ham .",21,1
+english muffins,"in addition to great hot dogs , dotp has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and $t$ , a delicious nj - based pork product know to us jersey girls and boys as taylor ham .",24,1
+pork product,"in addition to great hot dogs , dotp has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and english muffins , a delicious nj - based $t$ know to us jersey girls and boys as taylor ham .",32,1
+taylor ham,"in addition to great hot dogs , dotp has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and english muffins , a delicious nj - based pork product know to us jersey girls and boys as $t$ .",42,1
+manager,"well , it happened because of a graceless $t$ and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .",8,-1
+bartender,"well , it happened because of a graceless manager and a rude $t$ who had us waiting 20 minutes for drinks , and then tells us to chill out .",12,-1
+waiting,"well , it happened because of a graceless manager and a rude bartender who had us $t$ 20 minutes for drinks , and then tells us to chill out .",16,-1
+drinks,"well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for $t$ , and then tells us to chill out .",20,0
+service,"not only is the $t$ great , but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable .",4,1
+atmosphere,"not only is the service great , but forming conversation around a table is so easy beacuse the $t$ can be both romantic and comfortable .",18,1
+dish,"when the $t$ arrived it was blazing with green chillis , definitely not edible by a human .",2,-1
+green chillis,"when the dish arrived it was blazing with $t$ , definitely not edible by a human .",8,-1
+service,the absolute worst $t$ i ' ve ever experienced and the food was below average ( when they actually gave people the meals they ordered ) .,3,-1
+food,the absolute worst service i ' ve ever experienced and the $t$ was below average ( when they actually gave people the meals they ordered ) .,11,-1
+meals,the absolute worst service i ' ve ever experienced and the food was below average ( when they actually gave people the $t$ they ordered ) .,22,0
+lunch,it ' s about $7 for $t$ and they have take - out or dine - in .,6,0
+out,it ' s about $7 for lunch and they have take - $t$ or dine - in .,12,0
+in,it ' s about $7 for lunch and they have take - out or dine - $t$ .,16,0
+food,be sure to accompany your $t$ with one of their fresh juice concoctions .,5,0
+fresh juice concoctions,be sure to accompany your food with one of their $t$ .,10,1
+food,the $t$ is great and the prices are reasonable .,1,1
+prices,the food is great and the $t$ are reasonable .,6,1
+place,"the $t$ is clean , and if you like soul food , then this is the place to be !",1,1
+soul food,"the place is clean , and if you like $t$ , then this is the place to be !",9,1
+roast chicken,i had $t$ and a salad .,2,0
+salad,i had roast chicken and a $t$ .,6,0
+chicken with avocado,they have a very good $t$ and good tuna as well .,5,1
+tuna,they have a very good chicken with avocado and good $t$ as well .,10,1
+meals,but the $t$ were terrible .,2,-1
+chicken,my $t$ was completely dried out and on the cold side and the sauce was not very flavorful .,1,-1
+sauce,my chicken was completely dried out and on the cold side and the $t$ was not very flavorful .,13,-1
+malted milk ball gelato,$t$ - have you ever in your life heard of anything so ridiculously wonderful ?,0,1
+meal,way too much money for such a terrible $t$ .,8,-1
+service,"however , the $t$ is absolutely horrible .",3,-1
+bar service,a con was the slow $t$ .,5,-1
+dessert,$t$ was also to die for !,0,1
+service,"btw , the $t$ is very good .",3,1
+black vinegar,it ' s eaten with $t$ and shredded ginger .,5,0
+shredded ginger,it ' s eaten with black vinegar and $t$ .,8,0
+lighting,"the unattractive $t$ made me want to gag , the food was overpriced , there was the most awful disco pop duo performing - and my escargot looked like it might crawl off the plate .",2,-1
+food,"the unattractive lighting made me want to gag , the $t$ was overpriced , there was the most awful disco pop duo performing - and my escargot looked like it might crawl off the plate .",10,-1
+disco pop duo,"the unattractive lighting made me want to gag , the food was overpriced , there was the most awful $t$ performing - and my escargot looked like it might crawl off the plate .",19,-1
+escargot,"the unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing - and my $t$ looked like it might crawl off the plate .",26,-1
+place,it is a cozy $t$ to go with a couple of friends .,4,1
+service,"the $t$ is always great , and the owner walks around to make sure you enjoy .",1,1
+owner,"the service is always great , and the $t$ walks around to make sure you enjoy .",8,1
+waiters,because the $t$ need severe attitue adjustments .,2,-1
+food,the $t$ is delicious and highly recommended .,1,1
+waiter,"when it came time to take the order the $t$ gave us a hard time , walked away then came back with a paper and pen for us to write down what we wanted . . . excuse me but isn ' t that his job ? ? ?",9,-1
+salads,dieters stick to $t$ or indulge in vegetarian platters .,3,1
+vegetarian platters,dieters stick to salads or indulge in $t$ .,7,1
+meal,so for a filling and healthy $t$ give it a go .,6,1
+food,"since i cook for a living , i ' m very fussy about the $t$ i eat in restaurants .",14,0
+service,the $t$ was outstanding .,1,1
+pizza,my friends and i stop here for $t$ before hitting the kips bay movie theater .,7,0
+pizza,we always enjoy the $t$ .,4,1
+service,the $t$ is pretty good .,1,1
+chicken,"yum , the $t$ is great here .",3,1
+food,"the $t$ here was great , a treat from beginning to end .",1,1
+host ( owner,the $t$ ) and servers are personable and caring .,1,1
+servers,the host ( owner ) and $t$ are personable and caring .,6,1
+food,"it ' s just everything . . . the $t$ , the atmosphere . . . the incrediby kind and gracious hostess .",9,1
+atmosphere,"it ' s just everything . . . the food , the $t$ . . . the incrediby kind and gracious hostess .",12,1
+hostess,"it ' s just everything . . . the food , the atmosphere . . . the incrediby kind and gracious $t$ .",21,1
+food,the $t$ is very good and the service is great .,1,1
+service,the food is very good and the $t$ is great .,7,1
+vietnamese beef noodle soup,i usually get one the $t$ .,5,0
+dining experience,we were wondering why they were there to make our $t$ miserable ?,10,-1
+indian food,"this place has the best $t$ in new york , hands down .",5,1
+waiters,the $t$ are very friendly and helpful and if you frequent they will remember you .,1,1
+interior,intimate but charming $t$ with extremely friendly and attentive service .,3,1
+service,intimate but charming interior with extremely friendly and attentive $t$ .,9,1
+food,the $t$ was as creative as the decor and both worked .,1,1
+decor,the food was as creative as the $t$ and both worked .,7,1
+menu,"the $t$ is great , with a good selection , and everything that i have tried is absolutely delicious .",1,1
+selection,"the menu is great , with a good $t$ , and everything that i have tried is absolutely delicious .",8,1
+sauce,the $t$ is zesty and flavorful and the crust is nice and crispy .,1,1
+crust,the sauce is zesty and flavorful and the $t$ is nice and crispy .,8,1
+sushi,this place has the best $t$ in the city .,5,1
+selection,they have an excellent $t$ ( the rolls with crab are really great ) .,4,1
+rolls with crab,they have an excellent selection ( the $t$ are really great ) .,7,1
+host,"everyone who works there ( the $t$ , the bartender , the servers ) is so helpful .",6,1
+bartender,"everyone who works there ( the host , the $t$ , the servers ) is so helpful .",9,1
+servers,"everyone who works there ( the host , the bartender , the $t$ ) is so helpful .",12,1
+food,and the $t$ is fantastic .,2,1
+potato spinach gnocchi,favourites include : $t$ and the lamb .,3,1
+lamb,favourites include : potato spinach gnocchi and the $t$ .,8,1
+lunch,"unfortunately , we chose this spot for $t$ as we had done a lot of walking and ended up at the south st seaport .",7,0
+sandwiches,but regulars know that the $t$ are the real star here .,5,1
+portuguese cheese cart,the skillfully chosen $t$ paired with quality port provides the perfect iberian ending .,3,1
+port,the skillfully chosen portuguese cheese cart paired with quality $t$ provides the perfect iberian ending .,9,1
+burger,my friend had a $t$ and i had these wonderful blueberry pancakes .,4,0
+blueberry pancakes,my friend had a burger and i had these wonderful $t$ .,10,1
+food,we were so happy with our $t$ and were even more thrilled when we saw the bill .,6,1
+bill,we were so happy with our food and were even more thrilled when we saw the $t$ .,16,1
+toppings,"all $t$ are so fresh you ' d think they had their own vegetable garden and the crust is so perfect , that one actually thinks of how it was made .",1,1
+crust,"all toppings are so fresh you ' d think they had their own vegetable garden and the $t$ is so perfect , that one actually thinks of how it was made .",17,1
+service,we ' ve always gotten amazing $t$ and we love the food .,6,1
+food,we ' ve always gotten amazing service and we love the $t$ .,11,1
+waitstaff,"the $t$ is solicitous and friendly and always seems glad to see us , and the food is wonderful , if not stunningly creative .",1,1
+food,"the waitstaff is solicitous and friendly and always seems glad to see us , and the $t$ is wonderful , if not stunningly creative .",16,1
+lobster ravioli,i ' m in love with the $t$ !,7,1
+meal,we came across this restaurant by accident while at a dumbo art festival and thoroughly enjoyed our $t$ .,17,1
+service,"$t$ is excellent , no wait , and you get a lot for the price .",0,1
+wait,"service is excellent , no $t$ , and you get a lot for the price .",5,1
+price,"service is excellent , no wait , and you get a lot for the $t$ .",14,1
+food,i thought the $t$ isn ' t cheap at all compared to chinatown .,3,-1
+coffee,$t$ is a better deal than overpriced cosi sandwiches .,0,1
+cosi sandwiches,coffee is a better deal than overpriced $t$ .,7,-1
+drink,we didn ' t know if we should order a $t$ or leave ?,10,0
+prices,") it ' s not the best japanese restaurant in the east village , but it ' s a pretty solid one for its modest $t$ , and worth repeat visits .",25,1
+food,the $t$ is so good and so popular that waiting can really be a nightmare .,1,1
+waiting,the food is so good and so popular that $t$ can really be a nightmare .,9,-1
+place,first walking in the $t$ seemed to have great ambience .,4,1
+ambience,first walking in the place seemed to have great $t$ .,9,1
+brunch,i went to kitchenette this weekend for $t$ .,7,0
+food,even for two very hungry people there is plenty of $t$ left to be taken home ( it reheats really well also ) .,10,1
+crust,"then they somehow made a dry and burnt $t$ , around a raw and cold inside .",8,-1
+food,"it ' s just good $t$ , nothing more and that ' s all we want !",5,1
+cake,average $t$ thats been courted by a lot of hype .,1,-1
+dinner,my wife and i recently visited the bistro for $t$ and had a wonderful experience .,9,0
+service,the $t$ is perfect too nothing wrong in this italian/french restaurant,1,1
+delmonico steak,the $72 $t$ had to be sent back because it was not cooked to order .,2,-1
+menu,everytime i go there i can ' t pick anything to eat and not because the $t$ is filled with great things to eat .,16,-1
+chicken,half a $t$ with a mountain of rice and beans for $6 . 25 .,2,0
+rice,half a chicken with a mountain of $t$ and beans for $6 . 25 .,7,0
+beans,half a chicken with a mountain of rice and $t$ for $6 . 25 .,9,0
+service,"the $t$ is really fast and friendly , and the value is great .",1,1
+value,"the service is really fast and friendly , and the $t$ is great .",10,1
+food,we were very impressed with the $t$ and value .,6,1
+value,we were very impressed with the food and $t$ .,8,1
+garlic soup,you must try the $t$ !,4,1
+falafel,"casablanca servces delicious $t$ , tabouleh , humus and other mediterranean delights , which are all very inexpensive .",3,1
+tabouleh,"casablanca servces delicious falafel , $t$ , humus and other mediterranean delights , which are all very inexpensive .",5,1
+humus,"casablanca servces delicious falafel , tabouleh , $t$ and other mediterranean delights , which are all very inexpensive .",7,1
+mediterranean delights,"casablanca servces delicious falafel , tabouleh , humus and other $t$ , which are all very inexpensive .",10,1
+pizza ' s,"the $t$ are made fresh , crispy , and ready to serve .",1,1
+staff,$t$ is accomodating make sure you are satified .,0,1
+chef,$t$ waldy ' s always measures up .,0,1
+priced,reasonably $t$ with very fresh sushi .,1,1
+sushi,reasonably priced with very fresh $t$ .,5,1
+seafood paella for two,go for the $t$ .,3,1
+apetizers,all of the $t$ are good and the sangria is very good .,3,1
+sangria,all of the apetizers are good and the $t$ is very good .,8,1
+service,"the one positive thing i can say is that the $t$ was prompt , we got seated right away and the server was very friendly .",10,1
+server,"the one positive thing i can say is that the service was prompt , we got seated right away and the $t$ was very friendly .",21,1
+staff,the $t$ greeted me warmly at the door and i was seated promptly and the food was excellent .,1,1
+food,the staff greeted me warmly at the door and i was seated promptly and the $t$ was excellent .,15,1
+service,$t$ is usually pretty good .,0,1
+host,$t$ and hostess was quite rude .,0,-1
+hostess,host and $t$ was quite rude .,2,-1
+wait staff,"the $t$ is very friendly , if your not rude or picky . . . . . . . our meal at leon last weekend was great - .",1,1
+meal,"the wait staff is very friendly , if your not rude or picky . . . . . . . our $t$ at leon last weekend was great - .",21,1
+salmon dishes,i recommend any of their $t$ . . . . . .,5,1
+foie gras,the $t$ was sweet and luscious .,1,1
+menu,"the $t$ , which changes seasonally , shows both regional and international influences .",1,0
+mac cheese,but their $t$ was yummy !,2,1
+brunch menu,their $t$ had something for everyone .,1,1
+jazz singer,$t$ had a nice voice + she made us all get up to dance to shake some cals to eat some more .,0,1
+service,they have very quick $t$ which is great when you don ' t have much time .,4,1
+food,"the $t$ is average : breakfast food , soups , salads , sandwiches , etc .",1,0
+breakfast food,"the food is average : $t$ , soups , salads , sandwiches , etc .",5,0
+soups,"the food is average : breakfast food , $t$ , salads , sandwiches , etc .",8,0
+salads,"the food is average : breakfast food , soups , $t$ , sandwiches , etc .",10,0
+sandwiches,"the food is average : breakfast food , soups , salads , $t$ , etc .",12,0
+food,i was highly disappointed by the $t$ .,6,-1
+banana pudding,"the $t$ they serve has never seen an oven , the crabcakes are way over salted and don ' t get me started on the very greasy mac and cheese .",1,-1
+crabcakes,"the banana pudding they serve has never seen an oven , the $t$ are way over salted and don ' t get me started on the very greasy mac and cheese .",12,-1
+mac and cheese,"the banana pudding they serve has never seen an oven , the crabcakes are way over salted and don ' t get me started on the very greasy $t$ .",28,-1
+staff,"the $t$ is arrogant , the prices are way high for brooklyn .",1,-1
+prices,"the staff is arrogant , the $t$ are way high for brooklyn .",6,-1
+service,the $t$ is prompt friendly .,1,1
+food,this is literally a hot spot when it comes to the $t$ .,11,1
+downstairs bar scene,the $t$ is very cool and chill . . .,1,1
+food,"the $t$ was definitely good , but when all was said and done , i just couldn ' t justify it for the price ( including 2 drinks , $100/person ) . . .",1,1
+price,"the food was definitely good , but when all was said and done , i just couldn ' t justify it for the $t$ ( including 2 drinks , $100/person ) . . .",23,-1
+drinks,"the food was definitely good , but when all was said and done , i just couldn ' t justify it for the price ( including 2 $t$ , $100/person ) . . .",27,0
+casual lunches,i ' ve come here for $t$ as well as for a friend ' s birthday and i always enjoy myself .,6,0
+tequila,if you are a $t$ fan you will not be disappointed .,4,1
+beer selection,"great $t$ too , something like 50 beers .",1,1
+beers,"great beer selection too , something like 50 $t$ .",8,0
+delivary,not to sound too negative but be wary of the $t$ .,10,-1
+food,"i found the $t$ to be just as good as its owner , da silvano , just much less expensive .",3,1
+owner,"i found the food to be just as good as its $t$ , da silvano , just much less expensive .",11,1
+homemade pastas,they have $t$ of all kinds - - i recommend the gnocchi - - yum !,2,1
+gnocchi,they have homemade pastas of all kinds - - i recommend the $t$ - - yum !,12,1
+vegetable risotto,"my $t$ was burnt , and infused totally in a burnt flavor .",1,-1
+flavor,"my vegetable risotto was burnt , and infused totally in a burnt $t$ .",12,-1
+price,the main draw of this place is the $t$ .,8,1
+service,how can hope to stay in business with $t$ like this ?,8,-1
+dinner,"but $t$ here is never disappointing , even if the prices are a bit over the top .",1,1
+prices,"but dinner here is never disappointing , even if the $t$ are a bit over the top .",10,-1
+sandwiches,"not only did they have amazing , $t$ , soup , pizza etc , but their homemade sorbets are out of this world !",7,1
+soup,"not only did they have amazing , sandwiches , $t$ , pizza etc , but their homemade sorbets are out of this world !",9,1
+pizza,"not only did they have amazing , sandwiches , soup , $t$ etc , but their homemade sorbets are out of this world !",11,1
+homemade sorbets,"not only did they have amazing , sandwiches , soup , pizza etc , but their $t$ are out of this world !",16,1
+homemade guacamole,"the $t$ , the unbelievable entree , and thee most amazing deserts .",1,1
+entree,"the homemade guacamole , the unbelievable $t$ , and thee most amazing deserts .",6,1
+deserts,"the homemade guacamole , the unbelievable entree , and thee most amazing $t$ .",12,1
+sushi,the $t$ is reasonably priced and fresh .,1,1
+priced,the sushi is reasonably $t$ and fresh .,4,1
+deserts,save room for $t$ - they ' re to die for .,3,1
+grill,best things to order are from the $t$ ( churrasco and ribs ) .,7,1
+ribs,best things to order are from the grill ( churrasco and $t$ ) .,11,1
+traditional italian items,the $t$ are great - cheap and served in a cozy setting .,1,1
+served,the traditional italian items are great - cheap and $t$ in a cozy setting .,9,1
+setting,the traditional italian items are great - cheap and served in a cozy $t$ .,13,1
+iced blended mocha,whether your choose the $t$ or the hot white mocha you are sure to be extremely happy .,4,1
+hot white mocha,whether your choose the iced blended mocha or the $t$ you are sure to be extremely happy .,9,1
+late lunch,last tuesday for a $t$ with a friend .,4,0
+parmesan cheese,another friend had to ask 3 times for $t$ .,8,0
+waitress,"our $t$ had apparently never tried any of the food , and there was no one to recommend any wine .",1,-1
+food,"our waitress had apparently never tried any of the $t$ , and there was no one to recommend any wine .",9,0
+wine,"our waitress had apparently never tried any of the food , and there was no one to recommend any $t$ .",19,0
+service,"the $t$ was a bit slow and the portions are a bit small so if you are hungry and in a rush , this is not the place for you .",1,-1
+portions,"the service was a bit slow and the $t$ are a bit small so if you are hungry and in a rush , this is not the place for you .",8,-1
+salad,the unfortunate lady next to us thought she had ordered a $t$ ( including asking for salad dressing ) and was instead given a quesedilla .,11,0
+salad dressing,the unfortunate lady next to us thought she had ordered a salad ( including asking for $t$ ) and was instead given a quesedilla .,16,0
+quesedilla,the unfortunate lady next to us thought she had ordered a salad ( including asking for salad dressing ) and was instead given a $t$ .,24,0
+pizza ' s,"el nidos one of the best restaurants in new york which i ' ve ever been to , has a great variety of tasty , mouth watering $t$ .",27,1
+service,"the $t$ was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .",1,-1
+food,"the service was pretty poor all around , the $t$ was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .",9,-1
+cost,"the service was pretty poor all around , the food was well below average relative to the $t$ , and outside there is a crazy bum who harasses every customer who leaves the place .",17,-1
+food,although i moved uptown i try to stop in as often as possible for the great cheap $t$ and to pay the friendly staff a visit .,17,1
+staff,although i moved uptown i try to stop in as often as possible for the great cheap food and to pay the friendly $t$ a visit .,23,1
+bar,i had to wait for my friend at the $t$ for a few minutes,9,0
+chef,"$t$ vincenzo , always there if you need him , is a real talent and a real roman .",0,1
+indian food,"if you ' re looking to taste some great $t$ and want good service , definitely visit curry leaf .",9,1
+service,"if you ' re looking to taste some great indian food and want good $t$ , definitely visit curry leaf .",14,1
+odessa stew,"you must try $t$ or rabbit stew ; salads - all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .",3,1
+rabbit stew,"you must try odessa stew or $t$ ; salads - all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .",6,1
+all,"you must try odessa stew or rabbit stew ; salads - $t$ good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .",11,1
+kompot,"you must try odessa stew or rabbit stew ; salads - all good ; and $t$ is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .",15,1
+lunch,my daughter and i left feeling satisfied ( not stuffed ) and it felt good to know we had a healthy $t$ .,21,1
+waitress,"when she complained , the $t$ said , sorry .",5,0
+quality of the meat,the $t$ was on par with your local grocery store .,1,-1
+smoothies,they specialize in $t$ and fresh juices .,3,1
+fresh juices,they specialize in smoothies and $t$ .,5,1
+black roasted codfish,"i recommend the $t$ , it was the best dish of the evening .",3,1
+dish,"i recommend the black roasted codfish , it was the best $t$ of the evening .",11,1
+manager,the $t$ then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .,1,0
+menu,the manager then told us we could order from whatever $t$ we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .,10,0
+waiter,the manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the $t$ and the resturant that we let and went some place else .,23,-1
+chicken,"in mi burrito , here was nothing but dark $t$ that had that cooked last week and just warmed up in a microwave taste .",9,-1
+taste,"in mi burrito , here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave $t$ .",23,-1
+reservation,"during busy hrs , i recommend that you make a $t$ .",10,0
+brunch,i went to common stock for $t$ and i was so impressed .,6,0
+sushi,"now called nikki sushi , $t$ is ok .",5,0
+food,the $t$ is also outstanding and is served quite quickly .,1,1
+served,the food is also outstanding and is $t$ quite quickly .,7,1
+erbazzone emiliana,"from the $t$ to the mostarda on the cheese plate , the dishes at this restaurant are all handled with delicate care .",2,1
+mostarda on the cheese plate,"from the erbazzone emiliana to the $t$ , the dishes at this restaurant are all handled with delicate care .",6,1
+dishes,"from the erbazzone emiliana to the mostarda on the cheese plate , the $t$ at this restaurant are all handled with delicate care .",13,1
+food,the $t$ is delicious and the bar has a great vibe .,1,1
+bar,the food is delicious and the $t$ has a great vibe .,6,1
+vibe,the food is delicious and the bar has a great $t$ .,10,1
+candlelight,there ' s $t$ and music .,3,0
+music,there ' s candlelight and $t$ .,5,0
+food,simple healthy unglamorous $t$ cheap .,3,1
+dining experience,"it was such a fantastic $t$ , that i returned again the same week .",5,1
+food,"to be fair , the $t$ still is good and the service is quick and attentative even though its usually very busy .",5,1
+service,"to be fair , the food still is good and the $t$ is quick and attentative even though its usually very busy .",11,1
+place,the $t$ is absolutely adorable and the food is delicious .,1,1
+food,the place is absolutely adorable and the $t$ is delicious .,7,1
+chicken teriyaki,i ordered the $t$ and my husband got garlic shrimp .,3,0
+garlic shrimp,i ordered the chicken teriyaki and my husband got $t$ .,9,0
+japanese food,i ' ve had better $t$ at a mall food court .,5,-1
+staff members,the $t$ are extremely friendly and even replaced my drink once when i dropped it outside .,1,1
+drink,the staff members are extremely friendly and even replaced my $t$ once when i dropped it outside .,10,0
+atmosphere,cool $t$ but such a let down .,1,1
+sashimi portion,"the $t$ are big enough to appease most people , but i didn ' t like the fact they used artifical lobster meat .",1,1
+artifical lobster meat,"the sashimi portion are big enough to appease most people , but i didn ' t like the fact they used $t$ .",21,-1
+wheat crusted pizza,they have $t$ made with really fresh and yummy ingredients .,2,1
+ingredients,they have wheat crusted pizza made with really fresh and yummy $t$ .,11,1
+dinner,"had a lovely $t$ in this dedicated seafood joint , food was well - prepared and - presented and the service was pleasant and prompt .",3,1
+food,"had a lovely dinner in this dedicated seafood joint , $t$ was well - prepared and - presented and the service was pleasant and prompt .",10,1
+service,"had a lovely dinner in this dedicated seafood joint , food was well - prepared and - presented and the $t$ was pleasant and prompt .",20,1
+cake,"the icing made this $t$ , it was fluffy , not ultra sweet , creamy and light .",4,1
+slices,"finally let into the store 5 at a time , to buy expensive $t$ from a harried staff .",13,-1
+staff,"finally let into the store 5 at a time , to buy expensive slices from a harried $t$ .",17,-1
+wait staff,we ended up having to just leave because we were essentially being ignored by the $t$ - - even though the rest of the restaurant was largely empty .,15,-1
+wine list,"the $t$ is extensive , well priced and covers alot of regions .",1,1
+priced,"the wine list is extensive , well $t$ and covers alot of regions .",7,1
+salads,go here if you want fresh and tasty $t$ of any type you can imagine .,8,1
+bathroom,everything about this place is adorable - even the $t$ !,9,1
+delivers,"speedy $t$ , great food , decent prices , and friendly service combine to ensure an enjoyable repast .",1,1
+food,"speedy delivers , great $t$ , decent prices , and friendly service combine to ensure an enjoyable repast .",4,1
+prices,"speedy delivers , great food , decent $t$ , and friendly service combine to ensure an enjoyable repast .",7,1
+service,"speedy delivers , great food , decent prices , and friendly $t$ combine to ensure an enjoyable repast .",11,1
+repast,"speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable $t$ .",17,1
+waiters,they have $t$ on the sidewalk trying to pull you in which made us suspicious .,2,0
+italian meal,it was our only opportunity to visit and wanted an authentic $t$ .,11,0
+pizza,it took 100 years for parisi to get around to making $t$ ( at least i don ' t think they ever made it before this year ) . . . but it was worth the wait .,11,1
+steak,i asked for a simple medium rare $t$ .,7,0
+organic grilled burgers,"generously garnished , $t$ are the most popular dish , but the jerusalem market - style falafel wraps and mediterranean salads - - layered with beets , goat cheese and walnuts - - are equally scrumptious .",3,1
+dish,"generously garnished , organic grilled burgers are the most popular $t$ , but the jerusalem market - style falafel wraps and mediterranean salads - - layered with beets , goat cheese and walnuts - - are equally scrumptious .",10,1
+style falafel wraps,"generously garnished , organic grilled burgers are the most popular dish , but the jerusalem market - $t$ and mediterranean salads - - layered with beets , goat cheese and walnuts - - are equally scrumptious .",17,1
+layered with beets,"generously garnished , organic grilled burgers are the most popular dish , but the jerusalem market - style falafel wraps and mediterranean salads - - $t$ , goat cheese and walnuts - - are equally scrumptious .",25,1
+goat cheese and,"generously garnished , organic grilled burgers are the most popular dish , but the jerusalem market - style falafel wraps and mediterranean salads - - layered with beets , $t$ walnuts - - are equally scrumptious .",29,1
+dining experience,"probably my worst $t$ in new york , and i ' m a former waiter so i know what i ' m talking about .",3,-1
+waiter,"probably my worst dining experience in new york , and i ' m a former $t$ so i know what i ' m talking about .",15,0
+texture,"result ( red velvet ) : great $t$ , soft and velvety , nice hint of cocoa .",7,1
+hint of cocoa,"result ( red velvet ) : great texture , soft and velvety , nice $t$ .",14,1
+round corner table next to the large window,ask for the $t$ .,3,1
+twist on pizza,"their $t$ is heatlhy , but full of flavor .",1,1
+flavor,"their twist on pizza is heatlhy , but full of $t$ .",10,1
+ac,the lack of $t$ and the fact that there are a million swarming bodies ( although everyone is polite and no one is pushing ) is a slight turn off .,3,-1
+service,"i love the little pie company as much as anyone else who has written reviews , but must discourage anyone from visiting the grand central location due to their rude $t$ from two sales people .",30,-1
+sales people,"i love the little pie company as much as anyone else who has written reviews , but must discourage anyone from visiting the grand central location due to their rude service from two $t$ .",33,-1
+location,"unfortunately , unless you live in the neighborhood , it ' s not in a convenient $t$ but is more like a hidden treasure .",16,-1
+display and quality of the food,didn ' t seem like any effort was made to the $t$ .,11,-1
+though,the food - - $t$ mostly deep - fried - - is simple and satisfying .,4,1
+food,"glechik might be way too tiny for a restaurant by russian standards , but it is cozy and the $t$ is simply great .",19,1
+food,the $t$ was excellent - authentic italian cuisine made absolutely fresh .,1,1
+italian cuisine,the food was excellent - authentic $t$ made absolutely fresh .,6,1
+atmoshere,at night the $t$ changes turning into this hidden jewel that is waiting to be discovered .,3,1
+booth by the windows,"the other times i ' ve gone it ' s romantic date heaven , you can walk in get a $t$ , be treated like a vip in a not - crowded place , with great food and service .",20,0
+place,"the other times i ' ve gone it ' s romantic date heaven , you can walk in get a booth by the windows , be treated like a vip in a not - crowded $t$ , with great food and service .",35,1
+food,"the other times i ' ve gone it ' s romantic date heaven , you can walk in get a booth by the windows , be treated like a vip in a not - crowded place , with great $t$ and service .",39,1
+service,"the other times i ' ve gone it ' s romantic date heaven , you can walk in get a booth by the windows , be treated like a vip in a not - crowded place , with great food and $t$ .",41,1
+coffee,i would only go for the $t$ which is way better than starbucks or the like .,6,1
+wine list,somewhat disappointing $t$ ( only new vintages .,2,-1
+vintages,somewhat disappointing wine list ( only new $t$ .,7,-1
+priced food,if your looking for nasty high $t$ with a dash of ghetto scenery cheap bx a$$ this is the place to be ! !,6,-1
+scenery,if your looking for nasty high priced food with a dash of ghetto $t$ cheap bx a$$ this is the place to be ! !,13,-1
+new hamburger with special sauce,$t$ is ok - at least better than big mac !,0,1
+big mac,new hamburger with special sauce is ok - at least better than $t$ !,12,-1
+pasta,"perfectly al dente $t$ , not drowned in sauce - - generous portions .",3,1
+sauce,"perfectly al dente pasta , not drowned in $t$ - - generous portions .",8,0
+portions,"perfectly al dente pasta , not drowned in sauce - - generous $t$ .",12,1
+prices,"i can understand the $t$ if it served better food , like some chinese restaurants in midtown/uptown area .",4,-1
+food,"i can understand the prices if it served better $t$ , like some chinese restaurants in midtown/uptown area .",9,-1
+service,$t$ was awful - mostly because staff were overwhelmed on a saturday night .,0,-1
+staff,service was awful - mostly because $t$ were overwhelmed on a saturday night .,6,-1
+owners,"to the $t$ ; good job guys , this place is a keeper !",2,1
+owner,and the $t$ is simply lovely and friendly .,2,1
+place,this little $t$ is wonderfully warm welcoming .,2,1
+meal,perfect for a quick $t$ .,4,1
+place,has the warmth of a family local yet it is a great $t$ to watch sporting events .,12,1
+service,"the $t$ was great , and they have a whole great deal for birthdays .",1,1
+staff,the $t$ is 100% italian and the food is as authentic as it gets .,1,1
+food,the staff is 100% italian and the $t$ is as authentic as it gets .,7,1
+fortune cookies,my only complaint might be the $t$ - i ' ve never had a cookie predict bad luck for me before i visited kar .,6,-1
+cookie,my only complaint might be the fortune cookies - i ' ve never had a $t$ predict bad luck for me before i visited kar .,15,-1
+sushi lunch,good for a quick $t$ .,4,1
+mojito,have a $t$ and sit in the back patio .,2,1
+back patio,have a mojito and sit in the $t$ .,7,1
+service,the $t$ was dreadfully slow ( the place was only half full ) and a smile would have been nice . . .,1,-1
+meal,i went this past saturday and had a excellent $t$ of consisting of a braised lamb shank with mashed potatoes .,9,1
+braised lamb shank with mashed potatoes,i went this past saturday and had a excellent meal of consisting of a $t$ .,14,1
+waitress,the $t$ came by to pick up the soy sauce while we were eating our lunch ! ! ! ! !,1,-1
+soy sauce,the waitress came by to pick up the $t$ while we were eating our lunch ! ! ! ! !,8,0
+lunch,the waitress came by to pick up the soy sauce while we were eating our $t$ ! ! ! ! !,15,0
+bar,"so we sat at the $t$ , the bartender didn ' t seem like he wanted to be there .",5,0
+bartender,"so we sat at the bar , the $t$ didn ' t seem like he wanted to be there .",8,-1
+fried pork dumplings,"i reccomend the $t$ , the orange chicken/beef , and the fried rice .",3,1
+orange chicken/beef,"i reccomend the fried pork dumplings , the $t$ , and the fried rice .",8,1
+fried rice,"i reccomend the fried pork dumplings , the orange chicken/beef , and the $t$ .",13,1
+menu,you will not be dissapointed by any of the choices in the $t$ .,12,1
+french fries with the kalmata dip,the $t$ were terrific !,1,1
+wait,"would you ever believe that when you complain about over an hour $t$ , when they tell you it will be 20 - 30 minutes , the manager tells the bartender to spill the drinks you just paid for ?",12,-1
+manager,"would you ever believe that when you complain about over an hour wait , when they tell you it will be 20 - 30 minutes , the $t$ tells the bartender to spill the drinks you just paid for ?",27,-1
+bartender,"would you ever believe that when you complain about over an hour wait , when they tell you it will be 20 - 30 minutes , the manager tells the $t$ to spill the drinks you just paid for ?",30,0
+drinks,"would you ever believe that when you complain about over an hour wait , when they tell you it will be 20 - 30 minutes , the manager tells the bartender to spill the $t$ you just paid for ?",34,0
+boutique selection of wines,the $t$ covers a wide variety without being imposeing .,1,0
+assortment of wraps,they also have a great $t$ if your not in the mood for traditional mediterranean fare .,5,1
+traditional mediterranean fare,they also have a great assortment of wraps if your not in the mood for $t$ .,15,0
+fresh veggies,"$t$ , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",0,1
+middle eastern spreads,"fresh veggies , all sorts of $t$ , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",6,1
+cheese,"fresh veggies , all sorts of middle eastern spreads , $t$ and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",10,1
+falafel,"fresh veggies , all sorts of middle eastern spreads , cheese and $t$ , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",12,1
+soup,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , $t$ , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",14,1
+fish,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , $t$ , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",16,1
+rice,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , $t$ , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",18,1
+root vegetables,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , $t$ , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",20,1
+rice medley,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a $t$ , some spinach thing , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",24,1
+spinach thing,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some $t$ , lamb kebabs , cheese baclava . . . soooo much fooood , and all of it delicious .",28,1
+lamb kebabs,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , $t$ , cheese baclava . . . soooo much fooood , and all of it delicious .",31,1
+cheese baclava,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , $t$ . . . soooo much fooood , and all of it delicious .",34,1
+fooood,"fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava . . . soooo much $t$ , and all of it delicious .",41,1
+saketini,"disappointingly , their wonderful $t$ has been taken off the bar menu .",4,1
+bar menu,"disappointingly , their wonderful saketini has been taken off the $t$ .",10,-1
+look,in short the black sheep distinguishes itself from the midtown pub herd with a $t$ that ' s a mix of sports - bar butch and ornate kitsch .,14,-1
+martinis,i would definitely go back - - if only for some of those exotic $t$ on the blackboard .,14,1
+chairs,then she made a fuss about not being able to add 1 or 2 $t$ on either end of the table for additional people .,14,0
+table,then she made a fuss about not being able to add 1 or 2 chairs on either end of the $t$ for additional people .,20,0
+happy hour,"the $t$ is so cheap , but that does not reflect the service or the atmosphere .",1,1
+service,"the happy hour is so cheap , but that does not reflect the $t$ or the atmosphere .",13,1
+atmosphere,"the happy hour is so cheap , but that does not reflect the service or the $t$ .",16,1
+waiting,"after $t$ for almost an hour , the waiter brusquely told us he ' d forgotten to give the kitchen our order .",1,-1
+waiter,"after waiting for almost an hour , the $t$ brusquely told us he ' d forgotten to give the kitchen our order .",8,-1
+kitchen,"after waiting for almost an hour , the waiter brusquely told us he ' d forgotten to give the $t$ our order .",19,0
+quaility,with all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in $t$ and atmosphere .,22,1
+atmosphere,with all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and $t$ .,24,1
+space,"a mix of students and area residents crowd into this narrow , barely there $t$ for its quick , tasty treats at dirt - cheap prices .",14,-1
+treats,"a mix of students and area residents crowd into this narrow , barely there space for its quick , tasty $t$ at dirt - cheap prices .",20,1
+prices,"a mix of students and area residents crowd into this narrow , barely there space for its quick , tasty treats at dirt - cheap $t$ .",25,1
+menu,"give it a try , $t$ is typical french but varied .",5,0
+seats,it gets crowded at lunchtime but there are lots of $t$ in back and everyone who works there is so nice .,10,1
+value,"but for the $t$ , it was a great affordable spot to enjoy a fun night out with small group .",3,1
+attitude,the negative reviews on city search are probably from jealous competing restaurants who realize they can ' t compete with temple ' s entire positive $t$ about the proper way to treat their customers and deliver top quality food .,25,1
+food,the negative reviews on city search are probably from jealous competing restaurants who realize they can ' t compete with temple ' s entire positive attitude about the proper way to treat their customers and deliver top quality $t$ .,38,1
+glass of wine,we ordered a $t$ and were finished eating and paying before the wine came .,3,0
+flavors,"it was good , but none of the $t$ wow .",8,0
+place,"overall , this is a nice $t$ to take a few friends to hang out at and the service is excellent .",6,1
+service,"overall , this is a nice place to take a few friends to hang out at and the $t$ is excellent .",18,1
+food,$t$ is excellent quality for a good restaurant price .,0,1
+price,food is excellent quality for a good restaurant $t$ .,8,1
+burrito,"for about eleven bucks you get a gigantic $t$ ( or tacos ) , margarita , and dessert .",8,1
+tacos,"for about eleven bucks you get a gigantic burrito ( or $t$ ) , margarita , and dessert .",11,1
+margarita,"for about eleven bucks you get a gigantic burrito ( or tacos ) , $t$ , and dessert .",14,0
+dessert,"for about eleven bucks you get a gigantic burrito ( or tacos ) , margarita , and $t$ .",17,0
+space,the $t$ is traditional in feel .,1,0
+reservations,"the restaurant was completely empty , but she gave me a dirty look and asked , no $t$ ?",17,0
+food,the $t$ was mediocre to be kind - the interior is small and average - the owners are a tag - team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .,1,-1
+interior,the food was mediocre to be kind - the $t$ is small and average - the owners are a tag - team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .,9,-1
+owners,the food was mediocre to be kind - the interior is small and average - the $t$ are a tag - team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .,16,-1
+dining,the food was mediocre to be kind - the interior is small and average - the owners are a tag - team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst $t$ .,37,0
+service,"good $t$ , great food , good value , and never have to wait in line !",1,1
+food,"good service , great $t$ , good value , and never have to wait in line !",4,1
+value,"good service , great food , good $t$ , and never have to wait in line !",7,1
+wait,"good service , great food , good value , and never have to $t$ in line !",13,1
+hot cakes,offerings like $t$ and the egg mcmuffin sandwich are available for breakfast .,2,0
+egg mcmuffin sandwich,offerings like hot cakes and the $t$ are available for breakfast .,6,0
+breakfast,offerings like hot cakes and the egg mcmuffin sandwich are available for $t$ .,12,0
+service,"i have been going to this restaurant for years , in the past the $t$ was average and the food inconsistant .",14,0
+food,"i have been going to this restaurant for years , in the past the service was average and the $t$ inconsistant .",19,-1
+music,"the $t$ was fascinating , but left room for conversation , and the bartender made superb drinks .",1,1
+bartender,"the music was fascinating , but left room for conversation , and the $t$ made superb drinks .",13,1
+drinks,"the music was fascinating , but left room for conversation , and the bartender made superb $t$ .",16,1
+rice dishes,$t$ and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you ' re set for the night !,0,1
+noodle dishes,rice dishes and $t$ rarely exceed $5 and add on a refreshing ice drink for $2 and you ' re set for the night !,3,1
+ice drink,rice dishes and noodle dishes rarely exceed $5 and add on a refreshing $t$ for $2 and you ' re set for the night !,13,1
+cuisine,$t$ is billed as asian fusion - doesn ' t meet the bill .,0,-1
+billed,cuisine is $t$ as asian fusion - doesn ' t meet the bill .,2,-1
+asian fusion,cuisine is billed as $t$ - doesn ' t meet the bill .,4,0
+bill,cuisine is billed as asian fusion - doesn ' t meet the $t$ .,12,-1
+dishes,creative $t$ like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary - orange sauce are unexpected elements on an otherwise predictable bistro menu .,1,1
+king crab salad with passion fruit vinaigrette,creative dishes like $t$ and fettuccine with grilled seafood in a rosemary - orange sauce are unexpected elements on an otherwise predictable bistro menu .,3,1
+fettuccine with grilled seafood in a rosemary orange sauce,creative dishes like king crab salad with passion fruit vinaigrette and $t$ are unexpected elements on an otherwise predictable bistro menu .,11,1
+bistro menu,creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary - orange sauce are unexpected elements on an otherwise predictable $t$ .,28,0
+dishes,"$t$ denoted as ""roy ' s classics"" ( marked on the menu with asterisks ) are tried - and - true recipes , such as macadamia - crusted mahi mahi , or subtly sweet honey - mustard beef short ribs .",0,1
+"""roy ' s classics""","dishes denoted as $t$ ( marked on the menu with asterisks ) are tried - and - true recipes , such as macadamia - crusted mahi mahi , or subtly sweet honey - mustard beef short ribs .",3,1
+menu,"dishes denoted as ""roy ' s classics"" ( marked on the $t$ with asterisks ) are tried - and - true recipes , such as macadamia - crusted mahi mahi , or subtly sweet honey - mustard beef short ribs .",11,0
+recipes,"dishes denoted as ""roy ' s classics"" ( marked on the menu with asterisks ) are tried - and - true $t$ , such as macadamia - crusted mahi mahi , or subtly sweet honey - mustard beef short ribs .",21,1
+crusted mahi mahi,"dishes denoted as ""roy ' s classics"" ( marked on the menu with asterisks ) are tried - and - true recipes , such as macadamia - $t$ , or subtly sweet honey - mustard beef short ribs .",27,1
+sweet honey mustard beef short ribs,"dishes denoted as ""roy ' s classics"" ( marked on the menu with asterisks ) are tried - and - true recipes , such as macadamia - crusted mahi mahi , or subtly $t$ .",33,1
+cold sesame noodles,"the $t$ , which are a freebie when you order $10+ , are delectable .",1,1
+meal,"i came to fresh expecting a great $t$ , and all i got was marginally so - so food served in a restaurant that was just so freezing we couldn ' t enjoy eating .",7,-1
+food served,"i came to fresh expecting a great meal , and all i got was marginally so - so $t$ in a restaurant that was just so freezing we couldn ' t enjoy eating .",18,0
+argentine chorizo appetizer,the lone $t$ at $8 . 95 was a heavy fennel flavored italian sausage like the ones that sell for $2 . 99/lb at the store .,2,-1
+fennel flavored italian sausage,the lone argentine chorizo appetizer at $8 . 95 was a heavy $t$ like the ones that sell for $2 . 99/lb at the store .,12,-1
+dinner,"i went to swiftys with some friends of the family and we had a very nice $t$ , but nothing amazing .",16,1
+delivery,"best chinese on the upper east , prompt $t$ , good value .",8,1
+value,"best chinese on the upper east , prompt delivery , good $t$ .",11,1
+sandwiches,most of the $t$ are made with soy mayonaise which is actually pretty good .,3,1
+soy mayonaise,most of the sandwiches are made with $t$ which is actually pretty good .,7,1
+table,i went in one day asking for a $t$ for a group and was greeted by a very rude hostess .,8,0
+hostess,i went in one day asking for a table for a group and was greeted by a very rude $t$ .,19,-1
+dinner,it ' s worthwhile to take a cab to chelsea just for an awesome $t$ at my chelsea .,14,1
+food,"not only is the $t$ authentic , but the staff here are practically off - the - boat , they are young and hip and know what they are doing when it comes to food and wine .",4,1
+staff,"not only is the food authentic , but the $t$ here are practically off - the - boat , they are young and hip and know what they are doing when it comes to food and wine .",9,1
+food,"not only is the food authentic , but the staff here are practically off - the - boat , they are young and hip and know what they are doing when it comes to $t$ and wine .",34,1
+wine,"not only is the food authentic , but the staff here are practically off - the - boat , they are young and hip and know what they are doing when it comes to food and $t$ .",36,1
+music,"it has good $t$ , nice tapas , an interesting selection of wines ( primarily spanish ) and a lowkey hip neighborhood clientele .",3,1
+tapas,"it has good music , nice $t$ , an interesting selection of wines ( primarily spanish ) and a lowkey hip neighborhood clientele .",6,1
+selection of wines ( primarily spanish,"it has good music , nice tapas , an interesting $t$ ) and a lowkey hip neighborhood clientele .",10,1
+clientele,"it has good music , nice tapas , an interesting selection of wines ( primarily spanish ) and a lowkey hip neighborhood $t$ .",22,1
+food,"the $t$ is great , i love their dumplings , cold sesame noodles , chicken and shrimp dishs .",1,1
+dumplings,"the food is great , i love their $t$ , cold sesame noodles , chicken and shrimp dishs .",8,1
+cold sesame noodles,"the food is great , i love their dumplings , $t$ , chicken and shrimp dishs .",10,1
+chicken,"the food is great , i love their dumplings , cold sesame noodles , $t$ and shrimp dishs .",14,1
+shrimp dishs,"the food is great , i love their dumplings , cold sesame noodles , chicken and $t$ .",16,1
+food,"and the $t$ , well the food will keep you coming back .",2,1
+food,"and the food , well the $t$ will keep you coming back .",6,1
+waiting,$t$ three hours before getting our entrees was a treat as well .,0,-1
+entrees,waiting three hours before getting our $t$ was a treat as well .,6,0
+place,it ' s the conversations that make this a fun $t$ to be .,10,1
+duck confitte,"my gf ' s $t$ was very solid as well , although i have little base of reference .",4,1
+wine list,"the $t$ was superb , our tapas delightful , and the quiet atmosphere perfect for good conversation .",1,1
+tapas,"the wine list was superb , our $t$ delightful , and the quiet atmosphere perfect for good conversation .",7,1
+atmosphere,"the wine list was superb , our tapas delightful , and the quiet $t$ perfect for good conversation .",13,1
+food,you can eat gourmet $t$ at a fast food price .,4,1
+price,you can eat gourmet food at a fast food $t$ .,9,1
+food,"i ' ve eaten at all three locations and i always love , love the $t$ , the service is always wonderful and the prices are really reasonable .",15,1
+service,"i ' ve eaten at all three locations and i always love , love the food , the $t$ is always wonderful and the prices are really reasonable .",18,1
+prices,"i ' ve eaten at all three locations and i always love , love the food , the service is always wonderful and the $t$ are really reasonable .",24,1
+food,"not because i was pregnant , but the $t$ here is always delicious .",8,1
+meal,had a great $t$ there this weekend before heading to the movies !,3,1
+food,we had a birthday party here recently and the $t$ and service was amazing .,9,1
+service,we had a birthday party here recently and the food and $t$ was amazing .,11,1
+dinner menu,"the $t$ offers a variety of great entrees , including fresh seafood and huge steaks , there ' s also a couple of non - meat alternatives .",1,1
+entrees,"the dinner menu offers a variety of great $t$ , including fresh seafood and huge steaks , there ' s also a couple of non - meat alternatives .",8,1
+seafood,"the dinner menu offers a variety of great entrees , including fresh $t$ and huge steaks , there ' s also a couple of non - meat alternatives .",12,1
+steaks,"the dinner menu offers a variety of great entrees , including fresh seafood and huge $t$ , there ' s also a couple of non - meat alternatives .",15,1
+meat alternatives,"the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there ' s also a couple of non - $t$ .",26,0
+menu,this place has the strangest $t$ and the restaurants tries too hard to make fancy food .,5,-1
+food,this place has the strangest menu and the restaurants tries too hard to make fancy $t$ .,15,-1
+appetizers,"the $t$ are ok , but the service is slow .",1,0
+service,"the appetizers are ok , but the $t$ is slow .",7,-1
+food,the $t$ - not worth the price .,1,-1
+price,the food - not worth the $t$ .,6,-1
+waitress,"what can you say about a place where the $t$ brings out the wrong entree , then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely , by the way ) .",9,-1
+entree,"what can you say about a place where the waitress brings out the wrong $t$ , then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely , by the way ) .",14,0
+prices,the $t$ are not terrible .,1,1
+gratuity,15% $t$ automatically added to the bill .,1,-1
+bill,15% gratuity automatically added to the $t$ .,6,-1
+halibut cheek appetizer,"the $t$ came with a generous portion of foie gras , but that ' s about the only positive thing i can say about the meal .",1,0
+portion of foie gras,"the halibut cheek appetizer came with a generous $t$ , but that ' s about the only positive thing i can say about the meal .",8,1
+food,$t$ is excellent and they also have empenadas and plaintains which are good for an afternoon snack .,0,1
+empenadas,food is excellent and they also have $t$ and plaintains which are good for an afternoon snack .,7,1
+plaintains,food is excellent and they also have empenadas and $t$ which are good for an afternoon snack .,9,1
+afternoon snack,food is excellent and they also have empenadas and plaintains which are good for an $t$ .,15,1
+appetizer,both a number of the $t$ and pasta specials were amazing .,5,1
+pasta specials,both a number of the appetizer and $t$ were amazing .,7,1
+big mac,"all - time favorites include the $t$ , chicken mcnuggets , filet - o - fish sandwich and mcdonald ' s famous french fries ; lighter options like entree - sized salads are also available .",6,1
+chicken mcnuggets,"all - time favorites include the big mac , $t$ , filet - o - fish sandwich and mcdonald ' s famous french fries ; lighter options like entree - sized salads are also available .",9,1
+fish sandwich,"all - time favorites include the big mac , chicken mcnuggets , filet - o - $t$ and mcdonald ' s famous french fries ; lighter options like entree - sized salads are also available .",16,1
+mcdonald ' s famous french fries,"all - time favorites include the big mac , chicken mcnuggets , filet - o - fish sandwich and $t$ ; lighter options like entree - sized salads are also available .",19,1
+sized salads,"all - time favorites include the big mac , chicken mcnuggets , filet - o - fish sandwich and mcdonald ' s famous french fries ; lighter options like entree - $t$ are also available .",31,0
+pizza,"it ' s a basic pizza joint , not much to look at , but the $t$ is what i go for .",16,1
+tables,"$t$ are close , so you better be comfortable bumping elbows with other patrons .",0,-1
+lunch,was her monday for $t$ - was working on a film in the area - and found this rare jewel .,4,0
+scene,"not too much so , but enough that there ' s a great $t$ .",13,1
+blue bar area,dug the $t$ too .,2,1
+upstrairs dining area,"i got the opportunity to dine at your establishment again a few weeks ago , i was in your $t$ .",19,0
+veggie burger,"meat - phobes are in luck with the extraordinary $t$ , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .",9,1
+chickpeas,"meat - phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of $t$ , carrots and other vegetables and spices .",18,1
+carrots,"meat - phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , $t$ and other vegetables and spices .",20,1
+vegetables,"meat - phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other $t$ and spices .",23,1
+spices,"meat - phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and $t$ .",25,1
+tables,"at peak times , the restaurant is overcrowded and $t$ are uncomfortably close .",9,-1
+service,the $t$ was on point - what else you would expect from a ritz ?,1,1
+menus,"$t$ feature seasonal picks , like sweet corn - foie gras brulee .",0,0
+sweet corn foie gras brulee,"menus feature seasonal picks , like $t$ .",6,0
+carinthia cheese ravioli with wild mushrooms,"innovations are just as assured , from the simple $t$ to the caviar - topped sturgeon , beautifully matched with a bright green spinach - vodka sauce .",9,1
+topped sturgeon,"innovations are just as assured , from the simple carinthia cheese ravioli with wild mushrooms to the caviar - $t$ , beautifully matched with a bright green spinach - vodka sauce .",19,1
+green spinach vodka sauce,"innovations are just as assured , from the simple carinthia cheese ravioli with wild mushrooms to the caviar - topped sturgeon , beautifully matched with a bright $t$ .",27,1
+burgers,"and these are not small , wimpy fast food type $t$ - these are real , full sized patties .",10,1
+patties,"and these are not small , wimpy fast food type burgers - these are real , full sized $t$ .",18,1
+lunch,"there restaurant is very casual , but perfect for $t$ , and their delivery service is always very fast .",9,0
+delivery service,"there restaurant is very casual , but perfect for lunch , and their $t$ is always very fast .",13,1
+quality,chinatown definitely has better $t$ with cheaper prices .,4,1
+prices,chinatown definitely has better quality with cheaper $t$ .,7,1
+staff person,i had to flag down a third $t$ for a fork . . . so now it ' s goodbye little rude pie company .,7,0
+fork,i had to flag down a third staff person for a $t$ . . . so now it ' s goodbye little rude pie company .,11,0
+specials,"go with the $t$ , and stay away from the salmon .",3,1
+salmon,"go with the specials , and stay away from the $t$ .",10,-1
+pastas,the $t$ were pretty good .,1,1
+atmosphere,$t$ is a bore .,0,-1
+decor,the $t$ is what initially got me in the door .,1,1
+wait staff,the $t$ was very attentive and polite .,1,1
+food,"great restaurant , and even greater $t$ !",6,1
+dishes,the $t$ are remarkably tasty and such a cozy and intimate place !,1,1
+place,the dishes are remarkably tasty and such a cozy and intimate $t$ !,11,1
+desserts,save room for the $t$ ! ; - ),4,1
+food,"i love the simplicity and respect which was given to the $t$ , as well the staff was freindly and knowledgable .",11,1
+staff,"i love the simplicity and respect which was given to the food , as well the $t$ was freindly and knowledgable .",16,1
+service,$t$ was good and so was the atmosphere .,0,1
+atmosphere,service was good and so was the $t$ .,7,1
+branzini,my date and i both ordered the $t$ and both felt the fish was very average .,7,0
+fish,my date and i both ordered the branzini and both felt the $t$ was very average .,12,-1
+food,"the $t$ was good , the service prompt , and the price very reasonable .",1,1
+service,"the food was good , the $t$ prompt , and the price very reasonable .",6,1
+price,"the food was good , the service prompt , and the $t$ very reasonable .",11,1
+menu,"wonderful $t$ , warm inviting ambiance , great service the food keeps me coming back !",1,1
+ambiance,"wonderful menu , warm inviting $t$ , great service the food keeps me coming back !",5,1
+service,"wonderful menu , warm inviting ambiance , great $t$ the food keeps me coming back !",8,1
+food,"wonderful menu , warm inviting ambiance , great service the $t$ keeps me coming back !",10,1
+food,"great $t$ , good wine and an excellent host .",1,1
+wine,"great food , good $t$ and an excellent host .",4,1
+host,"great food , good wine and an excellent $t$ .",8,1
+pizzas,$t$ were excellent in addition to appetizers and main courses .,0,1
+appetizers,pizzas were excellent in addition to $t$ and main courses .,6,1
+main courses,pizzas were excellent in addition to appetizers and $t$ .,8,1
+calamari,"definitely try the $t$ , any pasta , or even the sliced steak entree .",3,1
+pasta,"definitely try the calamari , any $t$ , or even the sliced steak entree .",6,1
+sliced steak entree,"definitely try the calamari , any pasta , or even the $t$ .",11,1
+caeser salad,the $t$ was great .,1,1
+fried calamari,the $t$ was even better !,1,1
+food,the $t$ was good overall .,1,1
+food,the $t$ was outstanding and the service was tops .,1,1
+service,the food was outstanding and the $t$ was tops .,6,1
+portions,the $t$ are very large and the service is fantastic ! !,1,1
+service,the portions are very large and the $t$ is fantastic ! !,7,1
+chicken milanese,i recomend the $t$ .,3,1
+tapas,"excellent $t$ at great prices , romantic , small but not overly crowed , excellent",1,1
+prices,"excellent tapas at great $t$ , romantic , small but not overly crowed , excellent",4,1
+chocolate raspberry cake,"the $t$ is heavenly - not too sweet , but full of flavor .",1,1
+flavor,"the chocolate raspberry cake is heavenly - not too sweet , but full of $t$ .",14,1
+waiter,"our $t$ was helpful and charming , the food was perfect , and the wine was good , too .",1,1
+food,"our waiter was helpful and charming , the $t$ was perfect , and the wine was good , too .",8,1
+wine,"our waiter was helpful and charming , the food was perfect , and the $t$ was good , too .",14,1
+meal ( or,i have never had a bad $t$ bad service ) @ pigalle .,6,1
+service,i have never had a bad meal ( or bad $t$ ) @ pigalle .,10,1
+hot dogs,best $t$ in the tri - state area .,1,1
+service,the $t$ was very attentive and very generous .,1,1
+food,"we had tons of great $t$ , wine , and desserts .",5,1
+wine,"we had tons of great food , $t$ , and desserts .",7,1
+desserts,"we had tons of great food , wine , and $t$ .",10,1
+dining experience,really lovely $t$ in the midst of buzzing midtown area .,2,1
+food,the $t$ really isn ' t very good and the service is terrible .,1,-1
+service,the food really isn ' t very good and the $t$ is terrible .,10,-1
+escargot,"not only do they have the best $t$ in town , they always try to accomodate our toddler .",7,1
+menu,"between my guest and i , we sampled at least 80% of the $t$ , and they were all hits .",13,1
+deco,the $t$ and ambiance was really romantic .,1,1
+ambiance,the deco and $t$ was really romantic .,3,1
+french food,just go in and sample the greatest $t$ west of daniel .,7,1
+indian food,"for someone who used to hate $t$ , baluchi ' s has changed my mid .",6,1
+curry,"finally a $t$ that i can eat , enjoy and not suffer from gastritis from 3 hours later .",2,1
+poori,"all are great - $t$ , naan , paratha all fresh .",4,1
+naan,"all are great - poori , $t$ , paratha all fresh .",6,1
+paratha,"all are great - poori , naan , $t$ all fresh .",8,1
+homemade breads,try the $t$ .,2,1
+sushi,"this place has beautiful $t$ , and it ' s delicious cheap .",4,1
+korean dishes,it also has lots of other $t$ that are affordable and just as yummy .,6,1
+prix fixe menu,i went for restaurant week and ordered off the $t$,9,0
+waiter,"not only was the $t$ efficient and courteous , but also extremely helpful .",4,1
+place,"this $t$ is classy , chic , the service is warm and hospitable , and the food is outstanding .",1,1
+service,"this place is classy , chic , the $t$ is warm and hospitable , and the food is outstanding .",8,1
+food,"this place is classy , chic , the service is warm and hospitable , and the $t$ is outstanding .",16,1
+burgers,"great $t$ , grilled cheeses and french fries .",1,1
+grilled cheeses,"great burgers , $t$ and french fries .",3,1
+french fries,"great burgers , grilled cheeses and $t$ .",6,1
+yellowfin tuna,the $t$ and calf ' s liver are my favorites !,1,1
+calf ' s liver,the yellowfin tuna and $t$ are my favorites !,4,1
+sushi,$t$ so fresh that it crunches in your mouth .,0,1
+bill,but make sure you have enough room on your credit card as the $t$ will leave a big dent in your wallet .,13,-1
+sauce cart,they bring a $t$ up to your table and offer you up to 7 or 8 choices of sauces for your steak ( i tried them all ) .,3,0
+table,they bring a sauce cart up to your $t$ and offer you up to 7 or 8 choices of sauces for your steak ( i tried them all ) .,8,0
+choices of sauces,they bring a sauce cart up to your table and offer you up to 7 or 8 $t$ for your steak ( i tried them all ) .,17,1
+steak,they bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your $t$ ( i tried them all ) .,22,0
+sushi,"not only was the $t$ fresh , they also served other entrees allowed each guest something to choose from and we all left happy ( try the duck !",4,1
+entrees,"not only was the sushi fresh , they also served other $t$ allowed each guest something to choose from and we all left happy ( try the duck !",11,0
+duck,"not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy ( try the $t$ !",27,1
+variety,good $t$ but nothing surprising .,1,1
+utensils,"after i paid for my purchase , i noticed they had not given me $t$ so i could eat my pie .",14,0
+pie,"after i paid for my purchase , i noticed they had not given me utensils so i could eat my $t$ .",20,0
+thin crust,likewise if you like really $t$ or really big slices then nick and joe ' s may not be your favorite .,5,-1
+slices,likewise if you like really thin crust or really big $t$ then nick and joe ' s may not be your favorite .,10,-1
+green beans,"no $t$ , no egg , no anchovy dressing , no nicoise olives , no red onion .",1,0
+egg,"no green beans , no $t$ , no anchovy dressing , no nicoise olives , no red onion .",5,0
+anchovy dressing,"no green beans , no egg , no $t$ , no nicoise olives , no red onion .",8,0
+nicoise olives,"no green beans , no egg , no anchovy dressing , no $t$ , no red onion .",12,0
+red onion,"no green beans , no egg , no anchovy dressing , no nicoise olives , no $t$ .",16,0
+meal,"build a $t$ with side orders like amazin ' greens salads , buffalo chicken kickers and cinna stix .",2,0
+side orders,"build a meal with $t$ like amazin ' greens salads , buffalo chicken kickers and cinna stix .",4,0
+amazin,"build a meal with side orders like $t$ ' greens salads , buffalo chicken kickers and cinna stix .",7,0
+greens salads,"build a meal with side orders like amazin ' $t$ , buffalo chicken kickers and cinna stix .",9,0
+buffalo chicken kickers,"build a meal with side orders like amazin ' greens salads , $t$ and cinna stix .",12,0
+cinna stix,"build a meal with side orders like amazin ' greens salads , buffalo chicken kickers and $t$ .",16,0
+fries,"thick $t$ , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra - thick chocolate frosty .",1,0
+meaty chili,"thick fries , $t$ and stuffed baked potatoes round out a menu that includes a cool , ultra - thick chocolate frosty .",3,0
+stuffed baked potatoes,"thick fries , meaty chili and $t$ round out a menu that includes a cool , ultra - thick chocolate frosty .",6,0
+menu,"thick fries , meaty chili and stuffed baked potatoes round out a $t$ that includes a cool , ultra - thick chocolate frosty .",12,0
+chocolate frosty,"thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra - thick $t$ .",21,1
+waiter,i always find myself asking the $t$ to make something bland and different than what is on the menu .,6,0
+menu,i always find myself asking the waiter to make something bland and different than what is on the $t$ .,18,0
+cake,"good cake but : it was not the best $t$ i ' ve ever had , and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees .",9,-1
+employees,"good cake but : it was not the best cake i ' ve ever had , and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked $t$ .",33,-1
+cherry marscapone,"the closest that i got was the $t$ , but they were out of it that day .",7,0
+roti canai appetizer,"the homage to india is most evident in the delectable $t$ , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet - and - sour .",10,1
+fried pancake served with pungent curry dipping sauce,"the homage to india is most evident in the delectable roti canai appetizer , a $t$ , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet - and - sour .",15,1
+mango chicken,"the homage to india is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the $t$ offers a surprisingly sophisticated , fresh take on sweet - and - sour .",26,1
+outside,"it doesn ' t look like much on the $t$ , but the minute you walk inside , it ' s a whole other atmosphere .",9,-1
+atmosphere,"it doesn ' t look like much on the outside , but the minute you walk inside , it ' s a whole other $t$ .",24,1
+ground chickpea soup,the $t$ we sampled as a starter tasted somewhat thin .,1,-1
+starter,the ground chickpea soup we sampled as a $t$ tasted somewhat thin .,8,0
+sushi,"we requested they re - slice the $t$ , and it was returned to us in small cheese - like cubes .",7,-1
+service,"the $t$ , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud - mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an ac/dc concert or a knicks game .",1,-1
+quality of food,"the service , however , is a peg or two below the $t$ ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud - mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an ac/dc concert or a knicks game .",12,1
+bartenders,"the service , however , is a peg or two below the quality of food ( horrible $t$ ) , and the clientele , for the most part , are rowdy , loud - mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an ac/dc concert or a knicks game .",17,-1
+clientele,"the service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the $t$ , for the most part , are rowdy , loud - mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an ac/dc concert or a knicks game .",22,-1
+staff,"the service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud - mouthed commuters ( this could explain the bad attitudes from the $t$ ) getting loaded for an ac/dc concert or a knicks game .",45,-1
+meal,"if you ' re in the neighborhood , definitely stop by for a great $t$ .",14,1
+desserts,"unfortunately , with our show tickets , we didn ' t have time to sample any $t$ .",16,0
+tables,make more $t$ perhaps a rooftop bar ?,2,-1
+rooftop bar,make more tables - perhaps a $t$ ?,6,0
+decoration,"the $t$ was feeling like we was on the cairo , actually the street is part of that adventure .",1,1
+ambience,"although small , it has beautiful $t$ , excellent food ( the catfish is delicious - if ya don ' t mind it a lil salty ) and attentive service .",6,1
+food,"although small , it has beautiful ambience , excellent $t$ ( the catfish is delicious - if ya don ' t mind it a lil salty ) and attentive service .",9,1
+catfish,"although small , it has beautiful ambience , excellent food ( the $t$ is delicious - if ya don ' t mind it a lil salty ) and attentive service .",12,1
+service,"although small , it has beautiful ambience , excellent food ( the catfish is delicious - if ya don ' t mind it a lil salty ) and attentive $t$ .",29,1
+food,i didn ' t go there for $t$ so i can ' t comment .,7,0
+brisket,"stick to the items the place does best , $t$ , ribs , wings , cajun shrimp is good , not great .",9,1
+ribs,"stick to the items the place does best , brisket , $t$ , wings , cajun shrimp is good , not great .",11,1
+wings,"stick to the items the place does best , brisket , ribs , $t$ , cajun shrimp is good , not great .",13,1
+cajun shrimp,"stick to the items the place does best , brisket , ribs , wings , $t$ is good , not great .",15,0
+atmosphere,"hip boutiques and bars on ludlow add to the artsy , laid - back $t$ at this israeli - style takeout and eat - in burger joint .",14,1
+counter,"young neighborhood trendies graze at the $t$ during the day , while chic , art - house drinkers with heavy doses of the munchies pile in late at night .",6,0
+bottle of wine,bring your date and a $t$ !,5,0
+menu,"my chelsea ' s impressive and creative $t$ includes modern , westernized japanese dishes such as foie gras unagi napolean , jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",7,1
+japanese dishes,"my chelsea ' s impressive and creative menu includes modern , westernized $t$ such as foie gras unagi napolean , jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",12,0
+foie gras unagi napolean,"my chelsea ' s impressive and creative menu includes modern , westernized japanese dishes such as $t$ , jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",16,0
+jap style hamburger steak,"my chelsea ' s impressive and creative menu includes modern , westernized japanese dishes such as foie gras unagi napolean , $t$ , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",21,0
+spicy cod roe spaghetti,"my chelsea ' s impressive and creative menu includes modern , westernized japanese dishes such as foie gras unagi napolean , jap style hamburger steak , $t$ , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",26,0
+black cod with miso base,"my chelsea ' s impressive and creative menu includes modern , westernized japanese dishes such as foie gras unagi napolean , jap style hamburger steak , spicy cod roe spaghetti , $t$ , and rack of lamb in black truffle sauce , to name a few .",31,0
+rack of lamb in black truffle sauce,"my chelsea ' s impressive and creative menu includes modern , westernized japanese dishes such as foie gras unagi napolean , jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and $t$ , to name a few .",38,0
+food,"his $t$ is excellent ( and not expensive by nyc standards - no entrees over $30 , most appetizers $12 to 14 ) .",1,1
+entrees,"his food is excellent ( and not expensive by nyc standards - no $t$ over $30 , most appetizers $12 to 14 ) .",13,1
+appetizers,"his food is excellent ( and not expensive by nyc standards - no entrees over $30 , most $t$ $12 to 14 ) .",18,1
+food,the $t$ is consistant and good but how it got name best diner in manhattan is beyond me .,1,1
+pasta primavera,"the $t$ was outstanding as well , lots of fresh veggies .",1,1
+fresh veggies,"the pasta primavera was outstanding as well , lots of $t$ .",10,1
+sushi,"don ' t get me wrong - $t$ was good , just not fantastic .",7,1
+flan,being puerto rican i know a thing or two about $t$ and this place serves one of the best ( i hope mom doesn ' t read this ! ) .,10,1
+pizza,"been to the one in brooklyn for over 25 years , now i dont have to go over the bridge for the best $t$ . . . . hanx",23,1
+dinner,had $t$ here on a friday and the food was great .,1,0
+food,had dinner here on a friday and the $t$ was great .,8,1
+wine,"we recently spent new year ' s eve at the restaurant , and had a great experience , from the $t$ to the dessert menu .",20,1
+dessert menu,"we recently spent new year ' s eve at the restaurant , and had a great experience , from the wine to the $t$ .",23,1
+takeout,"highly recommended . . . as stated , i haven ' t dined *in* the restaurant but stopped by there to pick up $t$ and it seems a very relaxing place ; also , the bar looks nice .",23,0
+place,"highly recommended . . . as stated , i haven ' t dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing $t$ ; also , the bar looks nice .",30,1
+bar,"highly recommended . . . as stated , i haven ' t dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also , the $t$ looks nice .",35,1
+ambiance,"the $t$ was fine , a little loud but still nice and romantic .",1,1
+filet mignon,"but , the $t$ was not very good at all cocktail hour includes free appetizers ( nice non - sushi selection ) .",3,-1
+cocktail hour,"but , the filet mignon was not very good at all $t$ includes free appetizers ( nice non - sushi selection ) .",11,1
+appetizers,"but , the filet mignon was not very good at all cocktail hour includes free $t$ ( nice non - sushi selection ) .",15,1
+sushi selection,"but , the filet mignon was not very good at all cocktail hour includes free appetizers ( nice non - $t$ ) .",20,1
+served,it took about 2 1/2 hours to be $t$ our 2 courses .,8,-1
+courses,it took about 2 1/2 hours to be served our 2 $t$ .,11,0
+place,who said go when the $t$ is quiet during the day ?,5,0
+size,can be a bit busy around peak times because of the $t$ .,11,-1
+place,"i was on jury duty , rode my bike up centre street on my lunch break and came across this great little $t$ with awesome chicken tacos and hibiscus lemonade .",22,1
+chicken tacos,"i was on jury duty , rode my bike up centre street on my lunch break and came across this great little place with awesome $t$ and hibiscus lemonade .",25,1
+hibiscus lemonade,"i was on jury duty , rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and $t$ .",28,1
+place,good $t$ to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .,1,1
+soup,good place to hang out during the day after shopping or to grab a simple $t$ or classic french dish over a glass of wine .,15,0
+french dish,good place to hang out during the day after shopping or to grab a simple soup or classic $t$ over a glass of wine .,18,0
+glass of wine,good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a $t$ .,22,0
+place,very nice touch that very much fits the $t$ .,8,1
+outdoors,"however , there is just something so great about being $t$ , in great landscaping , enjoying a casual drink that makes going to this place worthwhile .",10,1
+casual drink,"however , there is just something so great about being outdoors , in great landscaping , enjoying a $t$ that makes going to this place worthwhile .",18,1
+place,"however , there is just something so great about being outdoors , in great landscaping , enjoying a casual drink that makes going to this $t$ worthwhile .",25,1
+dance floor,we were seated promptly in close proximity to the $t$ .,9,0
+show meal,"if you are here as a pre - $t$ , hop in a cab and take the extra 10 minutes to go to the uptown location .",8,0
+fried foods,"the comments about $t$ is correct ( below ) but the other dishes , including the lamb entree and many of the salads ( avocado shrimp ) were quite good .",3,-1
+dishes,"the comments about fried foods is correct ( below ) but the other $t$ , including the lamb entree and many of the salads ( avocado shrimp ) were quite good .",13,1
+lamb entree,"the comments about fried foods is correct ( below ) but the other dishes , including the $t$ and many of the salads ( avocado shrimp ) were quite good .",17,1
+salads ( avocado shrimp,"the comments about fried foods is correct ( below ) but the other dishes , including the lamb entree and many of the $t$ ) were quite good .",23,1
+service,"slow $t$ , but when you ' re hanging around with groups of 10 or 20 , who really notices ?",1,-1
+sauce,the $t$ is excellent ( very fresh ) with dabs of real mozzarella .,1,1
+dabs of real mozzarella,the sauce is excellent ( very fresh ) with $t$ .,9,0
+drinks,"don ' t ever bother - the $t$ were awful , but it was the people who work there that really made this the worst experience at dining .",7,-1
+people,"don ' t ever bother - the drinks were awful , but it was the $t$ who work there that really made this the worst experience at dining .",15,-1
+dining,"don ' t ever bother - the drinks were awful , but it was the people who work there that really made this the worst experience at $t$ .",27,-1
+room,"the $t$ is a little plain , but it ' s difficult to make such a small place exciting and i would not suggest that as a reason not to go .",1,-1
+place,"the room is a little plain , but it ' s difficult to make such a small $t$ exciting and i would not suggest that as a reason not to go .",17,-1
+prices,$t$ even outside of restaurant week were great .,0,1
+outdoor eating area,"a small , $t$ makes for a private , comfortable space to study alone or meet up with friends .",3,1
+space,"a small , outdoor eating area makes for a private , comfortable $t$ to study alone or meet up with friends .",12,1
+[female] servers,"and all the $t$ are cute too , which is always nice .",3,1
+dessert,"the best $t$ , a chocolate and peanut butter tart , isn ' t particularly hawaiian , but it ' s a small world when it comes to sweets .",2,1
+chocolate and peanut butter tart,"the best dessert , a $t$ , isn ' t particularly hawaiian , but it ' s a small world when it comes to sweets .",5,1
+sweets,"the best dessert , a chocolate and peanut butter tart , isn ' t particularly hawaiian , but it ' s a small world when it comes to $t$ .",28,0
+appetizer,"for an $t$ , their calamari is a winner .",2,0
+calamari,"for an appetizer , their $t$ is a winner .",5,1
+service,satay is one of those favorite haunts on washington where the $t$ and food is always on the money .,11,1
+food,satay is one of those favorite haunts on washington where the service and $t$ is always on the money .,13,1
+dinner,after $t$ i heard music playing and discovered that there is a lounge downstairs .,1,0
+music,after dinner i heard $t$ playing and discovered that there is a lounge downstairs .,4,0
+lounge,after dinner i heard music playing and discovered that there is a $t$ downstairs .,12,0
+room,"the $t$ is a gorgeous , bi - level space and the long bar perfect for a drink .",1,1
+level space,"the room is a gorgeous , bi - $t$ and the long bar perfect for a drink .",8,1
+long bar,"the room is a gorgeous , bi - level space and the $t$ perfect for a drink .",12,1
+drink,"the room is a gorgeous , bi - level space and the long bar perfect for a $t$ .",17,0
+appetizer selection,"two complaints - their $t$ stinks , it would be nice to get some mozzarella sticks on the menu .",4,-1
+mozzarella sticks,"two complaints - their appetizer selection stinks , it would be nice to get some $t$ on the menu .",15,0
+menu,"two complaints - their appetizer selection stinks , it would be nice to get some mozzarella sticks on the $t$ .",19,-1
+waitstaff,i was especially impressed during the bday party when the $t$ went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party .,10,1
+service,i was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly $t$ to a 15 person party .,32,1
+chicken and falafel platters,the $t$ were nondescript combinations with fresh leaf salad .,1,0
+fresh leaf salad,the chicken and falafel platters were nondescript combinations with $t$ .,9,0
+atmosphere,"the $t$ takes you to that place , the place many dream of .",1,1
+waiters,"several times and put up with the $t$ ' bad manners , knowing that their job isn ' t easy .",7,-1
+desserts,"the service is great ( maybe even borderline nagging but at least you get attention ) , the $t$ are excellent and the coffee is so very good . . .",18,1
+coffee,"the service is great ( maybe even borderline nagging but at least you get attention ) , the desserts are excellent and the $t$ is so very good . . .",23,1
+served,they are $t$ on focacchia bread and are to die for .,2,0
+focacchia bread,they are served on $t$ and are to die for .,4,0
+smoothies,"while the $t$ are a little big for me , the fresh juices are the best i have ever had !",2,-1
+fresh juices,"while the smoothies are a little big for me , the $t$ are the best i have ever had !",11,1
+pialla,"the food is just okay , and it ' s almost not worth going unless you ' re getting the $t$ , which is the only dish that ' s really good .",20,1
+dish,"the food is just okay , and it ' s almost not worth going unless you ' re getting the pialla , which is the only $t$ that ' s really good .",26,1
+flavor,"the guac is fresh , yet lacking $t$ , we like to add our fresh salsa into it .",7,-1
+fresh salsa,"the guac is fresh , yet lacking flavor , we like to add our $t$ into it .",14,0
+new menu,"the $t$ has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the prices ) , the staff is friendly most of the time , but i must agree with the person that wrote about their favorite words : no , can ' t , sorry . . . , boy , they won ' t bend the rules for anyone .",1,1
+prices,"the new menu has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the $t$ ) , the staff is friendly most of the time , but i must agree with the person that wrote about their favorite words : no , can ' t , sorry . . . , boy , they won ' t bend the rules for anyone .",25,-1
+lunch,it ' only open for $t$ but the food is so good !,5,0
+food,it ' only open for lunch but the $t$ is so good !,8,1
+seafood,if you like $t$ and/or greek food you will love this place though it is not limited to just these things .,3,1
+greek food,if you like seafood and/or $t$ you will love this place though it is not limited to just these things .,5,1
+menu,""" the $t$ includes pub fare - - burgers , steaks and shepherds pie - - and even a portabella lasagna for those black sheep known as ""vegetarians .",2,0
+pub fare burgers,""" the menu includes $t$ , steaks and shepherds pie - - and even a portabella lasagna for those black sheep known as ""vegetarians .",4,0
+steaks,""" the menu includes pub fare - - burgers , $t$ and shepherds pie - - and even a portabella lasagna for those black sheep known as ""vegetarians .",10,0
+shepherds,""" the menu includes pub fare - - burgers , steaks and $t$ pie - - and even a portabella lasagna for those black sheep known as ""vegetarians .",12,0
+portabella lasagna,""" the menu includes pub fare - - burgers , steaks and shepherds pie - - and even a $t$ for those black sheep known as ""vegetarians .",19,0
+food,how can they survive serving mediocre $t$ at exorbitant prices ? !,6,0
+prices,how can they survive serving mediocre food at exorbitant $t$ ? !,9,-1
+food,the $t$ was mediocre and the service was severely slow .,1,0
+service,the food was mediocre and the $t$ was severely slow .,6,-1
+food,i have eaten here on a different occasion - the $t$ is mediocre for the prices .,10,0
+prices,i have eaten here on a different occasion - the food is mediocre for the $t$ .,15,-1
+menu,i ' m looking forward to going back soon and eventually trying most everything on the $t$ !,16,1
+menu,i just had my first visit to this place and can ' t wait to go back and slowly work my way through the $t$ .,24,0
+meal,i asked repeatedly what the status of the $t$ was and was pretty much grunted at by the unbelievably rude waiter .,8,0
+waiter,i asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude $t$ .,20,-1
+brunch,i stopped by for some $t$ today and had the vegan cranberry pancakes and some rice milk .,5,0
+vegan cranberry pancakes,i stopped by for some brunch today and had the $t$ and some rice milk .,10,0
+rice milk,i stopped by for some brunch today and had the vegan cranberry pancakes and some $t$ .,15,0
+bartender,sweet irish $t$ is always happy and able to bring a smile to my friends a my face .,2,1
+drinks,its good to go there for $t$ if you don ' t want to get drunk because you ' ll be lucky if you can get one drink an hour the service is so bad .,6,0
+drink,its good to go there for drinks if you don ' t want to get drunk because you ' ll be lucky if you can get one $t$ an hour the service is so bad .,27,0
+service,its good to go there for drinks if you don ' t want to get drunk because you ' ll be lucky if you can get one drink an hour the $t$ is so bad .,31,-1
+owner,"anyway , the $t$ was fake .",3,-1
+owner,$t$ is pleasant and entertaining .,0,1
+food,"i have never in my life sent back $t$ before , but i simply had to , and the waiter argued with me over this .",8,-1
+waiter,"i have never in my life sent back food before , but i simply had to , and the $t$ argued with me over this .",19,-1
+food,"although the restaurant itself is nice , i prefer not to go for the $t$ .",14,-1
+taramasalata,"creamy appetizers - - $t$ , eggplant salad , and greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .",4,1
+eggplant salad,"creamy appetizers - - taramasalata , $t$ , and greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .",6,1
+greek yogurt ( with cuccumber,"creamy appetizers - - taramasalata , eggplant salad , and $t$ , dill , and garlic ) taste excellent when on warm pitas .",10,1
+dill,"creamy appetizers - - taramasalata , eggplant salad , and greek yogurt ( with cuccumber , $t$ , and garlic ) taste excellent when on warm pitas .",16,1
+and garlic,"creamy appetizers - - taramasalata , eggplant salad , and greek yogurt ( with cuccumber , dill , $t$ ) taste excellent when on warm pitas .",18,1
+warm pitas,"creamy appetizers - - taramasalata , eggplant salad , and greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on $t$ .",25,0
