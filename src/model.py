@@ -95,13 +95,13 @@ class TBSAModel(object):
         '''model-based layers'''
         self.context_att = StructuredSelfAttention(self.encode_dim, input_length=self.text_len, hidden_dim=self.struc_att_dim,
                                                    r=self.r, penal_coefficient=self.penal, output_method='matrix')
-        self.ffd_context_att = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
+        self.ffd_context_att = PositionwiseFeedForward(self.encode_dim, 512)
         self.tile_tar = TileWrapper([1, self.r, 1])
         self.fuse = kr.layers.Dense(self.encode_dim, activation='relu')
         self.tile_r = TileWrapper(scalar=self.r, axis=0)
         self.t2t = GlobalAttention(self.encode_dim, self.align_model, input_length=self.r, hidden_dim=self.t2t_dim,
                                    tensor_k=self.tensor_k)
-        self.ffd_t2t = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
+        # self.ffd_t2t = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
         '''forward process'''
         x_text_rlen = self._get_rlen(text_seq)
         x = self._get_embedding(text_seq)
@@ -119,7 +119,7 @@ class TBSAModel(object):
         '''build t2t self attention layer to get context vector'''
         x_context_rlen = self.tile_r(x_context)
         attended_rep, attention = self.t2t([x_tar_avg, x_context, x_context_rlen])
-        attended_rep = self.ffd_t2t(attended_rep)
+        # attended_rep = self.ffd_t2t(attended_rep)
         attended_rep = self._flatten(attended_rep)
         attended_rep = self._dropout_output(attended_rep)
         pred = self._classify(attended_rep)
