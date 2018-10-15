@@ -66,7 +66,12 @@ def build_vocab(vocab_file, data=None, embedding=None, emb_dim=200, is_train=Tru
         print('Loaded %d tokens from vocabulary file %s' % (vocab_size, vocab_file))
     token2id = dict(zip(vocab, range(vocab_size)))
     if is_train:
-        emb_matrix, emb_dim = build_embedding(vocab_size, token2id, embedding, emb_dim)
+        if (embedding is not None) and (embedding.endswith('.npy')):
+            emb_matrix = np.load(embedding)
+            emb_dim = emb_matrix.shape[-1]
+        else:
+            emb_matrix, emb_dim = build_embedding(vocab_size, token2id, embedding, emb_dim)
+            np.save(vocab_file[:-4]+'-emb.npy', emb_matrix)
         return vocab_size, token2id, emb_matrix, emb_dim
     else:
         return vocab_size, token2id

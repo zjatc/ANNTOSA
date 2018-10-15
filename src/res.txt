@@ -1,0 +1,57 @@
+t-set
+''' -lstm_dim 64 -struc_dim 32 -align_model tensor -tensor_k 4 -struc_r 4 -struc_penal 0.1 '''
+# -al seg -batch_size 64  -max_epoch 50 -use_lr_decay(0.1) -use_early_stop
+7233(0073)/7053(0097) |  1_fft_16 - rs - rmsp -  nopad
+[ 0.7327  0.716  11.][ 0.7327  0.7156  6.][ 0.7312  0.7111  6.][ 0.7298  0.7192 10.][ 0.7211  0.7035 10.]
+[ 0.7211  0.6979  5.][ 0.7197  0.6929  6.][ 0.7168  0.7095  5.][ 0.7153  0.696   9.][ 0.7124  0.6917 11.]
+
+# -al seg -batch_size 64  -max_epoch 50 -use_lr_decay(0.5) -use_early_stop
+7188(0055)/7024(0059) |  1_fft_8 - rs - rmsp -  nopad
+[ 0.7283  0.7071  7.][ 0.7211  0.7088  8.][ 0.7168  0.6921  7.][ 0.7153  0.7002 16.][ 0.7124  0.7038  4.]
+===============================================================================================
+# -al seg -batch_size 64  -max_epoch 50 -use_early_stop
+7278(0053)/7116(0049) |  0_fft - rs - rmsp -  nopad
+[0.7327 0.7205 6.][0.7327 0.7069 6.][0.7283 0.7072 6.][0.7269 0.7126 6.][0.7182 0.7108 5.]
+
+7275(0027)/7051(0056) |  1_fft_256 - rs - rmsp -  nopad
+[0.7312 0.7007 6.][0.7298 0.7145 7.][0.7269 0.6983 7.][0.7254 0.7061 7.][0.724  0.706  9.]
+
+
+'''-lstm_dim 64 -struc_dim 64 -align_model tensor -tensor_k 4 -struc_r 4 -struc_penal 0.1 '''
+-al seg -batch_size 64  -max_epoch 50 -use_early_stop
+ 7303(0030)/7135(0038) |  0_fft - rs - rmsp -  nopad
+[ 0.7355  0.7097  6.][ 0.7312  0.719  10.][ 0.7298  0.7087  5.][ 0.7283  0.7157  6.][ 0.7269  0.7143  6.]
+
+
+
+
+
+-lstm_dim 64 -struc_dim 32 -align_model tensor -tensor_k 4 -struc_r 4 -struc_penal 0.1 -batch_size 64
+cv : 
+7097_0139 / 6873_0156 | seg + 1fft16 + rs + rmsp + nopad
+
+
+-al seg+1_fft_8_fseed rmsp, no-pad_dataset, 7370, 7207
+-al seg+1_fft_16_rseed adam, no-pad_dataset, 7341, 7190
+
+-al seg+1_fft_8_fseed adam, no-pad_dataset, 7269, 7147
+-al seg+0_fft_fseed rmsp, no-pad_dataset, 7225, 7098
+-al seg+1_fft_16_fseed rmsp, no-pad_dataset, 7211, 7111
+
+-al seg+1_fft_64_rseed adam, no-pad_dataset, 7168, 6975
+-al seg+0_fft_rseed adam, no-pad_dataset, 7153, 7060
+-al seg+1_fft_256_rseed adam, no-pad_dataset, 7139, 6920
+-al seg+1_fft_256_rseed adam, pad-dataset, 7066, 6895
+-al seg+1_fft_1024_rseed adam, no-pad_dataset, 6994, 6756
+
+
+-lstm_dim 64 -struc_dim 64 -align_model tensor -tensor_k 4 -struc_r 4 -struc_penal 0.1 -batch_size 64
+-al seg+1_fft_16_fseed rmsp, no-pad_dataset, 7298, 7173
+-al seg+1_fft_8_fseed rmsp, no-pad_dataset, 7225, 7107
+-al seg+1_fft_8_rseed rmsp, no-pad_dataset, 7197, 7050
+
+
+
+
+acc max: 0.7214, f1 max: 0.6676
+acc mean: 0.7121, acc std: 0.0057, f1 mean: 0.6516, f1 std: 0.0094

@@ -2,3 +2,7 @@
 .idea/
 src/tmp/
 src/venv/
+emb/glove.840B.300d.txt
+.DS_Store
+*/__pycache__
+*/*/__pycache__

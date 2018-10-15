@@ -9,7 +9,8 @@ from attention import *
 class TBSAModel(object):
     def __init__(self, args):
         self.is_train = args.is_train
-
+        self.lr = args.lr
+        self.opt = args.opt
         self.current_model = args.al
         self.class_num = args.class_num
         self.text_len = args.text_seq_len
@@ -45,6 +46,13 @@ class TBSAModel(object):
         elif self.current_model == 'test':
             self.test_1()
         print('built %s model using alignment model %s' % (self.current_model, self.align_model))
+        if self.opt == 'adam':
+            optimizer = kr.optimizers.Adam(lr=self.lr, beta_1=0.9, beta_2=0.999, epsilon=1e-8, decay=0.0, amsgrad=False)
+        elif self.opt == 'rmsp':    
+            optimizer = kr.optimizers.RMSprop(lr=self.lr, rho=0.9, epsilon=1e-8, decay=0.0)
+        else:
+            raise NotImplementedError('No implementation for optimizer: ' + self.opt)
+        self.model.compile(loss='categorical_crossentropy', optimizer=optimizer, metrics=['accuracy'])
 
     def build_common_layers(self):
         # build layers
@@ -54,7 +62,7 @@ class TBSAModel(object):
         else:
             self._get_embedding = kr.layers.Embedding(self.vocab_size, self.emb_dim, input_length=self.text_len, trainable=True, mask_zero=False, name='emb_layer')
         self._dropout_embedding = kr.layers.Dropout(self.emb_dp)
-        self._rnn_encode = kr.layers.Bidirectional(kr.layers.CuDNNLSTM(self.text_rnn_dim, return_sequences=True))
+        self._rnn_encode = kr.layers.Bidirectional(kr.layers.LSTM(self.text_rnn_dim, return_sequences=True))
         self.encode_dim = 2 * self.text_rnn_dim
         # functional layers
         self._get_rlen = kr.layers.Lambda(get_sequence_actual_length)
@@ -95,12 +103,13 @@ class TBSAModel(object):
         '''model-based layers'''
         self.context_att = StructuredSelfAttention(self.encode_dim, input_length=self.text_len, hidden_dim=self.struc_att_dim,
                                                    r=self.r, penal_coefficient=self.penal, output_method='matrix')
-        self.ffd_context_att = PositionwiseFeedForward(self.encode_dim, 512)
+        # self.ffd_context_att = PositionwiseFeedForward(self.encode_dim, 16)
         self.tile_tar = TileWrapper([1, self.r, 1])
         self.fuse = kr.layers.Dense(self.encode_dim, activation='relu')
         self.tile_r = TileWrapper(scalar=self.r, axis=0)
         self.t2t = GlobalAttention(self.encode_dim, self.align_model, input_length=self.r, hidden_dim=self.t2t_dim,
                                    tensor_k=self.tensor_k)
+        # self.ln = LayerNormalization()
         # self.ffd_t2t = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
         '''forward process'''
         x_text_rlen = self._get_rlen(text_seq)
@@ -111,7 +120,7 @@ class TBSAModel(object):
         x_context_rlen = kr.layers.subtract([x_text_rlen, x_tar_rlen])
 
         x_context, context_mat_attention = self.context_att([x_context, x_context_rlen])
-        x_context = self.ffd_context_att(x_context)
+        # x_context = self.ffd_context_att(x_context)
         '''fusion target vector with each sentence representation'''
         x_tar_tiled = self.tile_tar(x_tar_avg)
         x_context = kr.layers.concatenate([x_context, x_tar_tiled], -1)
@@ -120,6 +129,7 @@ class TBSAModel(object):
         x_context_rlen = self.tile_r(x_context)
         attended_rep, attention = self.t2t([x_tar_avg, x_context, x_context_rlen])
         # attended_rep = self.ffd_t2t(attended_rep)
+        # attended_rep = self.ln(attended_rep)
         attended_rep = self._flatten(attended_rep)
         attended_rep = self._dropout_output(attended_rep)
         pred = self._classify(attended_rep)
@@ -216,23 +226,24 @@ class TBSAModel(object):
 
         text_seq = kr.Input(shape=(self.text_len,), dtype='int32', name='text_seq_input')
         tar_idx = kr.Input(shape=(self.text_len,), dtype='float32', name='tar_idx_input')
-        # model-based layers
+        '''model-based layers'''
         tar_structured_rep_r = 3
+        ffd_dim = 8
         self.context_att = StructuredSelfAttention(self.encode_dim, input_length=self.text_len, hidden_dim=self.struc_att_dim,
                                                    r=self.r, penal_coefficient=self.penal, output_method='matrix')
-        self.ffd_context_att = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
-        # self.tar_att_1 = StructuredSelfAttention(self.encode_dim, input_length=self.text_len, hidden_dim=self.struc_att_dim,
-        #                                          r=tar_structured_rep_r, penal_coefficient=0.0, output_method='matrix')
-        # self.ffd_tar_att_1 = PositionwiseFeedForward(self.encode_dim, 64)
-        # self.tile_tar_r = TileWrapper(scalar=3.0, axis=0)
-        self.tar_att_2 = StructuredSelfAttention(self.encode_dim, input_length=self.text_len, hidden_dim=64,
+        self.ffd_context_att = PositionwiseFeedForward(self.encode_dim, ffd_dim)
+        self.tar_att_1 = StructuredSelfAttention(self.encode_dim, input_length=self.text_len, hidden_dim=self.struc_att_dim,
+                                                 r=tar_structured_rep_r, penal_coefficient=0.0, output_method='matrix')
+        self.ffd_tar_att_1 = PositionwiseFeedForward(self.encode_dim, ffd_dim)
+        self.tile_tar_r = TileWrapper(scalar=3.0, axis=0)
+        self.tar_att_2 = StructuredSelfAttention(self.encode_dim, input_length=tar_structured_rep_r, hidden_dim=64,
                                                  r=1, penal_coefficient=0.0, output_method='matrix', bias=True)
-        self.ffd_tar_att_2 = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
+        self.ffd_tar_att_2 = PositionwiseFeedForward(self.encode_dim, ffd_dim)
         self.tile_tar = TileWrapper([1, self.r, 1])
         self.fuse = kr.layers.Dense(self.encode_dim, activation='relu')
         self.tile_r = TileWrapper(scalar=self.r, axis=0)
         self.t2t = GlobalAttention(self.encode_dim, self.align_model, input_length=self.r, hidden_dim=self.t2t_dim, tensor_k=self.tensor_k)
-        # forward process
+        '''forward process'''
         x_text_rlen = self._get_rlen(text_seq)
         x = self._get_embedding(text_seq)
         x = self._dropout_embedding(x)
@@ -241,62 +252,64 @@ class TBSAModel(object):
         x_context_rlen = kr.layers.subtract([x_text_rlen, x_tar_rlen])
         x_context, context_mat_attention = self.context_att([x_context, x_context_rlen])
         x_context = self.ffd_context_att(x_context)
-        # get proper target representation via 2-layers-self-attention
-        # x_tar_seq, tar_mat_attention_1 = self.tar_att_1([x_tar_seq, x_tar_rlen])
-        # x_tar_seq = self.ffd_tar_att_1(x_tar_seq)
-        # x_tar_rlen = self.tile_tar_r(x_tar_seq)
+        '''get proper target representation via 2-layers-self-attention'''
+        x_tar_seq, tar_mat_attention_1 = self.tar_att_1([x_tar_seq, x_tar_rlen])
+        x_tar_seq = self.ffd_tar_att_1(x_tar_seq)
+        x_tar_rlen = self.tile_tar_r(x_tar_seq)
         x_tar, tar_mat_attention_2 = self.tar_att_2([x_tar_seq, x_tar_rlen])
         x_tar = self.ffd_tar_att_2(x_tar)
-        # fusion target vector with each sentence representation
+        '''fusion target vector with each sentence representation'''
         x_tar_tiled = self.tile_tar(x_tar)
         x_context = kr.layers.concatenate([x_context, x_tar_tiled], -1)
         x_context = self.fuse(x_context)
-        # build t2t self attention layer to get context vector
+        '''build t2t self attention layer to get context vector'''
         x_context_rlen = self.tile_r(x_context)
         attended_rep, _ = self.t2t([x_tar, x_context, x_context_rlen])
         attended_rep = self._flatten(attended_rep)
         attended_rep = self._dropout_output(attended_rep)
         pred = self._classify(attended_rep)
-        # defined model input and output
+        '''defined model input and output'''
         self.model = kr.Model(inputs=[text_seq, tar_idx], outputs=pred)
 
     def test_1(self):
         print("Build model with bilstm(seq) + struc_self_att(tar_seq) + struc_t2t_att(non-tar_seq) + select_one_tar_rep_t2t")
 
+        ffd_dim = 8
+
         text_seq = kr.Input(shape=(self.text_len,), dtype='int32', name='text_seq_input')
         tar_idx = kr.Input(shape=(self.text_len,), dtype='float32', name='tar_idx_input')
-        # model-based layers
+        '''model-based layers'''
         self.tar_att_1 = StructuredSelfAttention(self.encode_dim, input_length=self.text_len, hidden_dim=self.struc_att_dim,
                                                  r=self.r, penal_coefficient=self.penal, output_method='matrix')
-        self.ffd_tar_att_1 = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
+        self.ffd_tar_att_1 = PositionwiseFeedForward(self.encode_dim, ffd_dim)
         self.tile_tar_r = TileWrapper(scalar=self.r, axis=0)
         self.tar_att_2 = StructuredSelfAttention(self.encode_dim, input_length=self.r, hidden_dim=self.struc_att_dim,
                                                  r=1, penal_coefficient=0.0, output_method='matrix', bias=True)
-        self.ffd_tar_att_2 = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
+        self.ffd_tar_att_2 = PositionwiseFeedForward(self.encode_dim, ffd_dim)
         self.context_att = StructuredGlobalAttention(self.encode_dim, input_length=self.text_len)
-        self.ffd_context_att = PositionwiseFeedForward(self.encode_dim, 2*self.encode_dim)
+        self.ffd_context_att = PositionwiseFeedForward(self.encode_dim, ffd_dim)
         self.tile_tar = TileWrapper([1, self.r, 1])
         self.fuse = kr.layers.Dense(self.encode_dim, activation='relu')
         self.t2t = GlobalAttention(self.encode_dim, self.align_model, input_length=self.r,
                                    hidden_dim=self.t2t_dim, tensor_k=self.tensor_k)
-        # forward process
+        '''forward process'''
         x_text_rlen = self._get_rlen(text_seq)
         x = self._get_embedding(text_seq)
         x = self._dropout_embedding(x)
         x = self._rnn_encode(x)
         x_tar_seq, x_context, x_tar_rlen = self._split_context_tar_pad([tar_idx, x])
         x_context_rlen = kr.layers.subtract([x_text_rlen, x_tar_rlen])
-        # structured attention on target's hidden status and select best target rep
+        '''structured attention on target's hidden status and select best target rep'''
         x_tar_seq, tar_mat_attention_1 = self.tar_att_1([x_tar_seq, x_tar_rlen])
         x_tar_seq = self.ffd_tar_att_1(x_tar_seq)
         x_tar_r_rlen = self.tile_tar_r(x_tar_seq)
         x_tar, tar_mat_attention_2 = self.tar_att_2([x_tar_seq, x_tar_r_rlen])
         x_tar = self.ffd_tar_att_2(x_tar)
 
-        # structured global attention using structured rep of target and context's hidden status
+        '''structured global attention using structured rep of target and context's hidden status'''
         x_context, context_mat_attention = self.context_att([x_tar_seq, x_context, x_context_rlen])
         x_context = self.ffd_context_att(x_context)
-        # fusion target vector with each sentence representation
+        '''fusion target vector with each sentence representation'''
         x_tar_tiled = self.tile_tar(x_tar)
         x_context = kr.layers.concatenate([x_context, x_tar_tiled], -1)
         x_context = self.fuse(x_context)
@@ -305,5 +318,5 @@ class TBSAModel(object):
         attended_rep = self._flatten(attended_rep)
         attended_rep = self._dropout_output(attended_rep)
         pred = self._classify(attended_rep)
-        # defined model input and output
+        '''defined model input and output'''
         self.model = kr.Model(inputs=[text_seq, tar_idx], outputs=pred)

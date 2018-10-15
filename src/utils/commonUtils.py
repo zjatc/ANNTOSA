@@ -47,5 +47,5 @@ def convert_traditional_to_simple(text):
 
 
 def convert_simple_to_traditional(text):
-    return HanziConv.toTraditional(x)
+    return HanziConv.toTraditional(text)
 
